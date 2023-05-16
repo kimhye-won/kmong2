@@ -926,7 +926,7 @@ transform: rotate(180deg);
 .profile .cont_scription .ticket .name {margin-top: 5px; font-size: 30px; font-weight: 700;}
 .profile .cont_scription .ticket .date {margin-top: 10px; font-size: 14px; font-weight: 500;}
 .profile .cont_scription .ticket.none {max-width: 304px; height: 175px; background-image: url('https://kimhye-won.github.io/kmong2/images/profile/bg_scription.svg');}
-.profile .cont_scription .ticket .ticket_more { max-width: 150px; width: 100%; text-align: center; padding:5px 0; margin-top: 10px; font-size:14px; border-radius: 14px; color:#888; background:#FFF7A9;; }
+.profile .cont_scription .ticket_more { max-width: 150px; width: 100%; text-align: center; padding:5px 0; margin-top: 10px; font-size:14px; border-radius: 14px; color:#888; background:#FFF7A9;; }
 .profile .cont_scription .card {display: flex; align-items: center; max-width: 304px; height: 175px; padding: 26px 30px; margin: 0 auto; text-align: center; border-radius: 15px; background-color: #fff;}
 .profile .cont_scription .card .box {display: flex; flex-direction: column; justify-content: space-between; width: 100%; height: 100%;}
 .profile .cont_scription .card .top {text-align: left;}
@@ -954,11 +954,14 @@ transform: rotate(180deg);
 .profile .filter .filter-inner .filter_sec .fil_txt ul li.yearly { margin-bottom: 10px; font-weight: 700; color:#303437; }
 .profile .filter .filter-inner .filter_sec .fil_txt ul li .fil_tit { width: 30%; font-weight: 700; }
 .profile .filter .filter-inner .filter_sec .fil_txt ul li .fil_sub { width: 70%; }
+.profile .filter .filter-inner .filter_sec .fil_txt ul li.cancel_date { display: none; }
+.profile .filter .filter-inner .filter_sec .fil_txt ul li.cancel_date.on { display: flex; }
 .profile .filter .filter-inner .filter_sec .fil_txt .cancel_btn { max-width: 240px; width: 100%; padding:10px 0; margin-top: 15px; font-size: 14px; font-weight: 700; border: 1px solid #B8B8B8; border-radius: 50px; color:#B8B8B8 }
+.profile .filter .filter-inner .filter_sec .fil_txt ul li.cancel_date.on .fil_tit span { display: inline-block; background: #E7E7E7; padding: 2px 5px;}
 .profile .filter .filter-inner .filter_btn { width: 100%; padding: 15px 0; text-align: center; border-radius: 50px; font-weight: 700; font-size: 16px; color:#fff; background: #000000; }
 .profile .filter .filter-inner .filter_sec.disa .fil_txt ul li.yearly { color:#A0A0A0; }
 
-.profile .ticket_pop { display: none; position: fixed; top: 50%;  left: 50%; transform: translate(-50%, -50%); max-width: 280px; width: 100%; padding: 40px 20px; text-align: center; color: #000; background:#fff; z-index: 150; }
+.profile .ticket_pop { display: none; position: fixed; top: 50%;  left: 50%; transform: translate(-50%, -50%); max-width: 290px; width: 100%; padding: 40px 20px; text-align: center; color: #000; background:#fff; z-index: 150; }
 .profile .ticket_pop .pop_title { margin-bottom: 15px; font-size: 16px; font-weight: 700;     transform: rotate(0.1deg); }
 .profile .ticket_pop .pop_txt { margin-bottom:25px; font-size: 14px;     transform: rotate(0.1deg); }
 .profile .ticket_pop .pop_btn { display: flex; }
