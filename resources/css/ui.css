@@ -957,6 +957,7 @@ transform: rotate(180deg);
 .profile .filter .filter-inner .filter_sec .fil_txt ul li.cancel_date { display: none; }
 .profile .filter .filter-inner .filter_sec .fil_txt ul li.cancel_date.on { display: flex; }
 .profile .filter .filter-inner .filter_sec .fil_txt .cancel_btn { max-width: 240px; width: 100%; padding:10px 0; margin-top: 15px; font-size: 14px; font-weight: 700; border: 1px solid #B8B8B8; border-radius: 50px; color:#B8B8B8 }
+.profile .filter .filter-inner .filter_sec .fil_txt .cancel_btn.non { display: none; }
 .profile .filter .filter-inner .filter_sec .fil_txt ul li.cancel_date.on .fil_tit span { display: inline-block; background: #E7E7E7; padding: 2px 5px;}
 .profile .filter .filter-inner .filter_btn { width: 100%; padding: 15px 0; text-align: center; border-radius: 50px; font-weight: 700; font-size: 16px; color:#fff; background: #000000; }
 .profile .filter .filter-inner .filter_sec.disa .fil_txt ul li.yearly { color:#A0A0A0; }
