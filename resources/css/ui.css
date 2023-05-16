@@ -965,7 +965,7 @@ transform: rotate(180deg);
 .profile .ticket_pop { display: none; position: fixed; top: 50%;  left: 50%; transform: translate(-50%, -50%); max-width: 290px; width: 100%; padding: 40px 20px; text-align: center; color: #000; background:#fff; z-index: 150; }
 .profile .ticket_pop .pop_title { margin-bottom: 15px; font-size: 16px; font-weight: 700;     transform: rotate(0.1deg); }
 .profile .ticket_pop .pop_txt { margin-bottom:25px; font-size: 14px;     transform: rotate(0.1deg); }
-.profile .ticket_pop .pop_btn { display: flex; }
+.profile .ticket_pop .pop_btn { display: flex; }d
 .profile .ticket_pop .pop_btn button { flex: 1; padding: 10px 0; border-radius: 24px; color: #FFFFFF; background: #000000;     transform: rotate(0.1deg);}
 .profile .ticket_pop .pop_btn button:first-child { margin-right: 10px; }
 .profile .ticket_pop.active { display: block; }
