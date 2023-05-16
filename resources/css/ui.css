@@ -86,23 +86,23 @@ a:hover {text-decoration:none;}
 /**
     버튼 아이콘형
 **/
-.alarm_btn  {position:relative;width:20px;height:20px;background:url('../images/ico_util_alarm.png') no-repeat 0 0 / 100% 100%}
+.alarm_btn  {position:relative;width:20px;height:20px;background:url('https://kimhye-won.github.io/kmong2/images/ico_util_alarm.png') no-repeat 0 0 / 100% 100%}
 .alarm_btn .count {position:absolute;top:0;right:-2px;height:12px;padding:0 3px;line-height:12px;font-size:10px;text-align:center;color:#fff;background-color:#EF5DA8;border-radius:9px;}
-.user_btn {width:20px;height:20px;background:url('../images/ico_util_user.png') no-repeat 0 0 / 100% 100%;}
-.like_btn {width:20px;height:20px;font-size:1px;text-indent:-99999em;color:transparent;background:url('../images/ico_heart_black.svg') no-repeat center center / 18px auto;}
-.like_btn.white {background-image:url('../images/ico_heart_white.svg');}
-.like_btn.active {background-image:url('../images/ico_heart_active.svg');}
-.more_btn {width:20px;height:20px;font-size:1px;text-indent:-99999em;color:transparent;background:url('../images/ico_more.svg') no-repeat center center / 3px auto;}
+.user_btn {width:20px;height:20px;background:url('https://kimhye-won.github.io/kmong2/images/ico_util_user.png') no-repeat 0 0 / 100% 100%;}
+.like_btn {width:20px;height:20px;font-size:1px;text-indent:-99999em;color:transparent;background:url('https://kimhye-won.github.io/kmong2/images/ico_heart_black.svg') no-repeat center center / 18px auto;}
+.like_btn.white {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_heart_white.svg');}
+.like_btn.active {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_heart_active.svg');}
+.more_btn {width:20px;height:20px;font-size:1px;text-indent:-99999em;color:transparent;background:url('https://kimhye-won.github.io/kmong2/images/ico_more.svg') no-repeat center center / 3px auto;}
 .home_btn {display:none;position:absolute;top:-72px;left:50%;width:94px;padding:7px 16px 7px 20px;background:#fff;border:1px solid #D9D9D9;border-radius:20px;transform:translate(-50%,0);opacity:0;transition:all .5s;}
 .home_btn.show {display:block;opacity:1;transition:all .5s;}
-.home_btn span {display:inline-block;padding-left:19px;font-size:13px;font-weight:700;color:#303437;letter-spacing:-.05em;background:url('../images/ico_home_s.svg') no-repeat left center / 12px auto;vertical-align:baseline;}
-.btn_bookmark {width:24px;height:24px;background:url('../images/ico_bookmark.svg') no-repeat 0 0 / 100% 100%;}
-.btn_bookmark.active {background-image:url('../images/ico_bookmark_active.svg');}
-.book_btn {width:22px;height:22px;background:url('../images/ico_dictionary.svg') no-repeat 0 0 / 100% 100%;}
-.book_btn.white {background-image:url('../images/ico_dictionary_white.svg');}
+.home_btn span {display:inline-block;padding-left:19px;font-size:13px;font-weight:700;color:#303437;letter-spacing:-.05em;background:url('https://kimhye-won.github.io/kmong2/images/ico_home_s.svg') no-repeat left center / 12px auto;vertical-align:baseline;}
+.btn_bookmark {width:24px;height:24px;background:url('https://kimhye-won.github.io/kmong2/images/ico_bookmark.svg') no-repeat 0 0 / 100% 100%;}
+.btn_bookmark.active {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_bookmark_active.svg');}
+.book_btn {width:22px;height:22px;background:url('https://kimhye-won.github.io/kmong2/images/ico_dictionary.svg') no-repeat 0 0 / 100% 100%;}
+.book_btn.white {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_dictionary_white.svg');}
 .more_btn {background-size:3px 13px !important;}
-.more_btn.white {background-image:url('../images/ico_more_white.svg');}
-.view_btn {width:16px;height:15px;background:url('../images/ico_view.svg') no-repeat 0 0 / 100% 100%;}
+.more_btn.white {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_more_white.svg');}
+.view_btn {width:16px;height:15px;background:url('https://kimhye-won.github.io/kmong2/images/ico_view.svg') no-repeat 0 0 / 100% 100%;}
 
 
 /**
@@ -120,11 +120,11 @@ a:hover {text-decoration:none;}
 #header.type02 .header_inner .box {display:flex;align-items:center;flex-direction:row-reverse;width:100%;}
 #header.type02 .header_inner .box .header_tit_box {display:flex;justify-content:space-between;align-items:center;flex-grow:1;}
 #header.type02 .header_inner .box .header_tit {flex-grow:1;margin-left:16px;font-size:17px;}
-#header.type02 .header_inner .box .btn_page_prev {width:24px;height:24px;background:url('../images/ico_page_prev.svg') no-repeat center center / 14px 14px}
-#header.type02 .header_inner .box .btn_page_prev.white {background-image:url('../images/ico_page_prev_white.svg');}
+#header.type02 .header_inner .box .btn_page_prev {width:24px;height:24px;background:url('https://kimhye-won.github.io/kmong2/images/ico_page_prev.svg') no-repeat center center / 14px 14px}
+#header.type02 .header_inner .box .btn_page_prev.white {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_page_prev_white.svg');}
 #header.type02 .header_inner .box .reset_btn {height:27px;padding:0 13px;font-size:13px;font-weight:700;color:#ffffff;background-color:#090A0A;border-radius:14px;}
 #header.type02 .header_inner .btn_msg_chk {display:flex;align-items:center;justify-content:flex-end;width:165px;height:32px;}
-#header.type02 .header_inner .btn_msg_chk .ico_chk {width:13px;height:13px;margin-right:13px;background:url('../images/ico_chk_circle.svg') no-repeat 0 0 / 100% 100%;}
+#header.type02 .header_inner .btn_msg_chk .ico_chk {width:13px;height:13px;margin-right:13px;background:url('https://kimhye-won.github.io/kmong2/images/ico_chk_circle.svg') no-repeat 0 0 / 100% 100%;}
 #header.type02 .header_inner .btn_msg_chk .ico_chk + span {line-height:100%;}
 
 #header.type03 .header_inner .box {flex-direction:row;}
@@ -139,16 +139,16 @@ a:hover {text-decoration:none;}
 #navi_wrap li {flex:0 0 25%;height:100%;text-align:center;}
 #navi_wrap li a {display:flex;flex-direction:column;align-items:center;justify-content:center;height:100%;font-size:10px;color:#979C9E;}
 #navi_wrap li a::before {content:'';display:block;margin:0 auto;background-repeat:no-repeat;background-position:0 0;background-size:100% 100%;}
-#navi_wrap li:nth-child(1) a::before {width:18px;height:20px;background-image:url('../images/ico_navi_01.svg');}
-#navi_wrap li:nth-child(2) a::before {width:18px;height:18px;background-image:url('../images/ico_navi_02.svg');}
-#navi_wrap li:nth-child(3) a::before {width:19px;height:19px;background-image:url('../images/ico_navi_03.svg');}
-#navi_wrap li:nth-child(4) a::before {width:18px;height:18px;background-image:url('../images/ico_navi_04.svg');}
+#navi_wrap li:nth-child(1) a::before {width:18px;height:20px;background-image:url('https://kimhye-won.github.io/kmong2/images/ico_navi_01.svg');}
+#navi_wrap li:nth-child(2) a::before {width:18px;height:18px;background-image:url('https://kimhye-won.github.io/kmong2/images/ico_navi_02.svg');}
+#navi_wrap li:nth-child(3) a::before {width:19px;height:19px;background-image:url('https://kimhye-won.github.io/kmong2/images/ico_navi_03.svg');}
+#navi_wrap li:nth-child(4) a::before {width:18px;height:18px;background-image:url('https://kimhye-won.github.io/kmong2/images/ico_navi_04.svg');}
 #navi_wrap li a > span {display:block;margin-top:8px;line-height:12px;}
 #navi_wrap li.active a {font-weight:700;color:#090A0A;}
-#navi_wrap li:nth-child(1).active a::before {background-image:url('../images/ico_navi_01_active.svg');}
-#navi_wrap li:nth-child(2).active a::before {background-image:url('../images/ico_navi_02_active.svg');}
-#navi_wrap li:nth-child(3).active a::before {background-image:url('../images/ico_navi_03_active.svg');}
-#navi_wrap li:nth-child(4).active a::before {background-image:url('../images/ico_navi_04_active.svg');}
+#navi_wrap li:nth-child(1).active a::before {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_navi_01_active.svg');}
+#navi_wrap li:nth-child(2).active a::before {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_navi_02_active.svg');}
+#navi_wrap li:nth-child(3).active a::before {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_navi_03_active.svg');}
+#navi_wrap li:nth-child(4).active a::before {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_navi_04_active.svg');}
 
 
 /**
@@ -188,7 +188,7 @@ a:hover {text-decoration:none;}
 .quiz_answer_alert .alert_txt {visibility:hidden;position:absolute;top:0;left:0;right:0;margin:0 auto;width:103px;height:29px;line-height:25px;text-align:center;font-size:13px;border:2px solid;border-radius:28px;background-color:#fff;opacity:0;transform:translateY(40px);}
 .quiz_answer_alert .alert_txt.active {animation:ani_quiz_active 2s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;}
 .quiz_answer_alert .alert_txt[data-answer="true"].active {display:flex;align-items:center;justify-content:center;border-color:#4FF788;}
-.quiz_answer_alert .alert_txt[data-answer="true"].active::before {content:'';width:17px;height:17px;margin-right:5px;background:url('../images/ico_today_quiz_true.svg') no-repeat 0 0 / 100% 100%;}
+.quiz_answer_alert .alert_txt[data-answer="true"].active::before {content:'';width:17px;height:17px;margin-right:5px;background:url('https://kimhye-won.github.io/kmong2/images/ico_today_quiz_true.svg') no-repeat 0 0 / 100% 100%;}
 .quiz_answer_alert .alert_txt[data-answer="false"].active {border-color:#FE5146;}
 @keyframes ani_quiz_active {
     25% {
@@ -236,7 +236,7 @@ a:hover {text-decoration:none;}
 .sec_wrap .sec_tit_box {display:flex;align-items:center;justify-content:space-between;padding:18px 20px;}
 .sec_wrap .sec_tit_box .sec_tit {padding:0;}
 .sec_wrap .sec_tit_box .btn_all_view {display:flex;align-items:center;justify-content:space-between;font-size:13px;font-weight:500;color:#6C7072;}
-.sec_wrap .sec_tit_box .btn_all_view::after {content:'';display:block;width:10px;height:10px;margin-left:10px;background:url('../images/ico_all_view.svg') no-repeat 0 0 / 100% 100%}
+.sec_wrap .sec_tit_box .btn_all_view::after {content:'';display:block;width:10px;height:10px;margin-left:10px;background:url('https://kimhye-won.github.io/kmong2/images/ico_all_view.svg') no-repeat 0 0 / 100% 100%}
 
 /* 텍스트 타입 */
 .info_txt_box .tit {font-size:13px;font-weight:700;line-height:21px;}
@@ -270,11 +270,11 @@ a:hover {text-decoration:none;}
 .thumb_wrap.type_main {padding-top:32%}
 .thumb_dots {position:absolute;top:10px;right:10px;height:19px;display:flex;align-items:center;justify-content:center;padding:0 7px;background-color:rgba(0, 0, 0, 0.4);}
 .thumb_dots span {display:flex;align-items:center;font-size:12px;font-weight:700;line-height:24px;color:#fff;}
-.thumb_dots span::after {content:'';width:10px;height:10px;margin-left:4px;background:url('../images/ico_dots_chk.svg') no-repeat 0 0 / 100% 100%}
+.thumb_dots span::after {content:'';width:10px;height:10px;margin-left:4px;background:url('https://kimhye-won.github.io/kmong2/images/ico_dots_chk.svg') no-repeat 0 0 / 100% 100%}
 .thumb_dots span > em:not(:first-child) {margin-left:2px;}
 .thumb_dots span > em:first-child {margin-right:2px;}
 .thumb_count {display:flex;align-items:center;justify-content:center;position:absolute;right:10px;bottom:10px;height:22px;padding:0 8px;font-size:13px;font-weight:500;line-height:22px;color:#fff;background:rgba(0, 0, 0, 0.4) ;border-radius:20px;z-index:1}
-.thumb_count::before {content:'';width:8px;height:9px;margin-right:3px;background:url('../images/ico_swiper_count.png') no-repeat 0 center / 100% 100%;}
+.thumb_count::before {content:'';width:8px;height:9px;margin-right:3px;background:url('https://kimhye-won.github.io/kmong2/images/ico_swiper_count.png') no-repeat 0 center / 100% 100%;}
 
 /* 썸네일 텍스트 */
 .thumb_txt_type01 {display:flex;align-items:flex-start;justify-content:space-between;padding-top:18px;}
@@ -304,36 +304,36 @@ a:hover {text-decoration:none;}
 #vid_contr_wrap ul {display:flex;align-items:center;justify-content:center;height:71px;}
 #vid_contr_wrap ul li {display:flex;align-items:center;justify-content:center;width:32px;height:33px;margin:0 12px;}
 #vid_contr_wrap ul li button {display:block;width:32px;height:33px;background-repeat:no-repeat;background-position:center center;background-size:100% 100%;}
-#vid_contr_wrap ul li .btn_lang[data-lang="korEng"] {background-image:url('../images/ico_vid_lang_korEng.svg');}
-#vid_contr_wrap ul li .btn_lang[data-lang="kor"] {background-image:url('../images/ico_vid_lang_kor.svg');}
-#vid_contr_wrap ul li .btn_lang[data-lang="eng"] {background-image:url('../images/ico_vid_lang_eng.svg');}
-#vid_contr_wrap ul li .btn_lang[data-lang="x"] {background-image:url('../images/ico_vid_lang_x.svg');}
-#vid_contr_wrap ul li .btn_prev {background-image:url('../images/ico_vid_prev.svg');}
-#vid_contr_wrap ul li .btn_play {background-image:url('../images/ico_vid_play.svg');background-size:29px 29px;}
-#vid_contr_wrap ul li .btn_pause {background-image:url('../images/ico_vid_pause.svg');background-size:29px 29px;}
-#vid_contr_wrap ul li .btn_next {background-image:url('../images/ico_vid_next.svg');}
-#vid_contr_wrap ul li .btn_repeat[data-repeat="default"] {background-image:url('../images/ico_vid_repeat_default.svg');}
-#vid_contr_wrap ul li .btn_repeat[data-repeat="1"] {background-image:url('../images/ico_vid_repeat_1.svg');}
-#vid_contr_wrap ul li .btn_repeat[data-repeat="2"] {background-image:url('../images/ico_vid_repeat_2.svg');}
-#vid_contr_wrap ul li .btn_repeat[data-repeat="3"] {background-image:url('../images/ico_vid_repeat_3.svg');}
-#vid_contr_wrap ul li .btn_repeat[data-repeat="4"] {background-image:url('../images/ico_vid_repeat_4.svg');}
-#vid_contr_wrap ul li .btn_repeat[data-repeat="all"] {background-image:url('../images/ico_vid_repeat_all.svg');}
-#vid_contr_wrap ul li .btn_repeat[data-repeat="off"] {background-image:url('../images/ico_vid_repeat_off.svg');}
+#vid_contr_wrap ul li .btn_lang[data-lang="korEng"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_lang_korEng.svg');}
+#vid_contr_wrap ul li .btn_lang[data-lang="kor"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_lang_kor.svg');}
+#vid_contr_wrap ul li .btn_lang[data-lang="eng"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_lang_eng.svg');}
+#vid_contr_wrap ul li .btn_lang[data-lang="x"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_lang_x.svg');}
+#vid_contr_wrap ul li .btn_prev {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_prev.svg');}
+#vid_contr_wrap ul li .btn_play {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_play.svg');background-size:29px 29px;}
+#vid_contr_wrap ul li .btn_pause {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_pause.svg');background-size:29px 29px;}
+#vid_contr_wrap ul li .btn_next {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_next.svg');}
+#vid_contr_wrap ul li .btn_repeat[data-repeat="default"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_repeat_default.svg');}
+#vid_contr_wrap ul li .btn_repeat[data-repeat="1"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_repeat_1.svg');}
+#vid_contr_wrap ul li .btn_repeat[data-repeat="2"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_repeat_2.svg');}
+#vid_contr_wrap ul li .btn_repeat[data-repeat="3"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_repeat_3.svg');}
+#vid_contr_wrap ul li .btn_repeat[data-repeat="4"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_repeat_4.svg');}
+#vid_contr_wrap ul li .btn_repeat[data-repeat="all"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_repeat_all.svg');}
+#vid_contr_wrap ul li .btn_repeat[data-repeat="off"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_repeat_off.svg');}
 
-#vid_contr_wrap.type_white ul li .btn_lang[data-lang="korEng"] {background-image:url('../images/ico_vid_lang_korEng_white.svg');}
-#vid_contr_wrap.type_white ul li .btn_lang[data-lang="kor"] {background-image:url('../images/ico_vid_lang_kor_white.svg');}
-#vid_contr_wrap.type_white ul li .btn_lang[data-lang="eng"] {background-image:url('../images/ico_vid_lang_eng_white.svg');}
-#vid_contr_wrap.type_white ul li .btn_lang[data-lang="x"] {background-image:url('../images/ico_vid_lang_x_white.svg');}
-#vid_contr_wrap.type_white ul li .btn_prev {background-image:url('../images/ico_vid_prev_white.svg');}
-#vid_contr_wrap.type_white ul li .btn_play {background-image:url('../images/ico_vid_play_white.svg');background-size:29px 29px;}
-#vid_contr_wrap.type_white ul li .btn_pause {background-image:url('../images/ico_vid_pause_white.svg');background-size:29px 29px;}
-#vid_contr_wrap.type_white ul li .btn_next {background-image:url('../images/ico_vid_next_white.svg');}
-#vid_contr_wrap.type_white ul li .btn_repeat[data-repeat="default"] {background-image:url('../images/ico_vid_repeat_default_white.svg');}
-#vid_contr_wrap.type_white ul li .btn_repeat[data-repeat="1"] {background-image:url('../images/ico_vid_repeat_1_white.svg');}
-#vid_contr_wrap.type_white ul li .btn_repeat[data-repeat="2"] {background-image:url('../images/ico_vid_repeat_2_white.svg');}
-#vid_contr_wrap.type_white ul li .btn_repeat[data-repeat="3"] {background-image:url('../images/ico_vid_repeat_3_white.svg');}
-#vid_contr_wrap.type_white ul li .btn_repeat[data-repeat="4"] {background-image:url('../images/ico_vid_repeat_4_white.svg');}
-#vid_contr_wrap.type_white ul li .btn_repeat[data-repeat="all"] {background-image:url('../images/ico_vid_repeat_all_white.svg');}
+#vid_contr_wrap.type_white ul li .btn_lang[data-lang="korEng"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_lang_korEng_white.svg');}
+#vid_contr_wrap.type_white ul li .btn_lang[data-lang="kor"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_lang_kor_white.svg');}
+#vid_contr_wrap.type_white ul li .btn_lang[data-lang="eng"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_lang_eng_white.svg');}
+#vid_contr_wrap.type_white ul li .btn_lang[data-lang="x"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_lang_x_white.svg');}
+#vid_contr_wrap.type_white ul li .btn_prev {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_prev_white.svg');}
+#vid_contr_wrap.type_white ul li .btn_play {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_play_white.svg');background-size:29px 29px;}
+#vid_contr_wrap.type_white ul li .btn_pause {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_pause_white.svg');background-size:29px 29px;}
+#vid_contr_wrap.type_white ul li .btn_next {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_next_white.svg');}
+#vid_contr_wrap.type_white ul li .btn_repeat[data-repeat="default"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_repeat_default_white.svg');}
+#vid_contr_wrap.type_white ul li .btn_repeat[data-repeat="1"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_repeat_1_white.svg');}
+#vid_contr_wrap.type_white ul li .btn_repeat[data-repeat="2"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_repeat_2_white.svg');}
+#vid_contr_wrap.type_white ul li .btn_repeat[data-repeat="3"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_repeat_3_white.svg');}
+#vid_contr_wrap.type_white ul li .btn_repeat[data-repeat="4"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_repeat_4_white.svg');}
+#vid_contr_wrap.type_white ul li .btn_repeat[data-repeat="all"] {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_vid_repeat_all_white.svg');}
 
 #vid_progress {width:100%;height:6px;}
 #vid_progress[value] {appearance:none;border:none;}
@@ -383,12 +383,12 @@ a:hover {text-decoration:none;}
 
 /* 오늘의 스피킹 */
 .today_speaking {}
-.today_speaking .thumb_wrap::before {content:'';position:absolute;top:50%;left:50%;width:23px;height:33px;background:url('../images/ico_today_speaking.svg') no-repeat 0 0 / 100% 100%;transform:translate(-50%, -50%);z-index:1}
+.today_speaking .thumb_wrap::before {content:'';position:absolute;top:50%;left:50%;width:23px;height:33px;background:url('https://kimhye-won.github.io/kmong2/images/ico_today_speaking.svg') no-repeat 0 0 / 100% 100%;transform:translate(-50%, -50%);z-index:1}
 .today_speaking .txt {display:flex;align-items:center;min-height:88px;margin-top:13px;padding:0 50px 0 28px;font-size:15px;line-height:20px;color:#000;}
 
 /* 모든 컨텐츠 보기 */
 .cont_all_view {padding:21px 56px;font-size:15px;line-height:21px;}
-.cont_all_view::before {content:'';display:block;width:22px;height:21px;margin:0 auto;background:url('../images/ico_star_yellow.svg') no-repeat 0 0 / 100% 100%;}
+.cont_all_view::before {content:'';display:block;width:22px;height:21px;margin:0 auto;background:url('https://kimhye-won.github.io/kmong2/images/ico_star_yellow.svg') no-repeat 0 0 / 100% 100%;}
 .cont_all_view .tit {margin-top:8px;font-weight:700;color:#090A0A;}
 .cont_all_view .txt {margin-top:8px;font-size:15px;color:#6C7072}
 .cont_all_view .btn {margin-top:20px;}
@@ -420,20 +420,20 @@ a:hover {text-decoration:none;}
 .course_novice_wrap .tab_top {background-color:#fff}
 .course_novice_wrap .tab_cont {padding:35px 20px;}
 .course_novice_wrap .novice_list {}
-.course_novice_wrap .novice_list li {position:relative;padding:0 0 24px 37px;background:url('../images/line_novice.svg') repeat-y 8px 0 / 2px auto;}
+.course_novice_wrap .novice_list li {position:relative;padding:0 0 24px 37px;background:url('https://kimhye-won.github.io/kmong2/images/line_novice.svg') repeat-y 8px 0 / 2px auto;}
 .course_novice_wrap .novice_list li:last-of-type {padding-bottom:0;}
 .course_novice_wrap .novice_list li .day {top:0;left:0;line-height:17px;font-family:'Gothic A1', sans-serif;font-size:15px;font-weight:900;}
 .course_novice_wrap .novice_list li .day::before {content:'';position:absolute;top:0;left:0;width:17px;height:18px;margin-right:20px;background:#E4E5E5;border-radius:100%;z-index:2;}
 .course_novice_wrap .novice_list li .box {display:flex;align-items:center;margin-top:14px;padding:18px 26px;text-align:left;}
-.course_novice_wrap .novice_list li .box::before {content:'';width:25px;height:26px;margin-right:20px;border-radius:100%;background:url('../images/ico_novice_step_chk.svg') no-repeat 0 0 / 100% 100%;}
+.course_novice_wrap .novice_list li .box::before {content:'';width:25px;height:26px;margin-right:20px;border-radius:100%;background:url('https://kimhye-won.github.io/kmong2/images/ico_novice_step_chk.svg') no-repeat 0 0 / 100% 100%;}
 .course_novice_wrap .novice_list li .box .txt_box {}
 .course_novice_wrap .novice_list li .box .txt_box .tit {font-size:15px;font-weight:900;}
 .course_novice_wrap .novice_list li .box .txt_box .txt {position:relative;padding-left:11px;margin-top:2px;font-size:13px;line-height:14px;color:#6C7072}
 .course_novice_wrap .novice_list li .box .txt_box .txt::before {content:'';position:absolute;top:6.5px;left:0;width:3px;height:3px;border-radius:3px;background-color:#6C7072}
 .course_novice_wrap .novice_list li .box .txt_box .txt > span:first-child {display:inline-block;margin-right:8px;}
 
-.course_novice_wrap .novice_list li.chk .day::before {background:url('../images/ico_novice_chk_active.svg') no-repeat 0 0 / 100% 100%;border-radius:0;}
-.course_novice_wrap .novice_list li.chk .box::before {background-image:url('../images/ico_novice_step_chk_active.svg');}
+.course_novice_wrap .novice_list li.chk .day::before {background:url('https://kimhye-won.github.io/kmong2/images/ico_novice_chk_active.svg') no-repeat 0 0 / 100% 100%;border-radius:0;}
+.course_novice_wrap .novice_list li.chk .box::before {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_novice_step_chk_active.svg');}
 
 
 /**
@@ -471,8 +471,8 @@ a:hover {text-decoration:none;}
 .learning_wrap .learning_area .learning_list_vid {padding-bottom:30px;}
 .learning_wrap .learning_area .learning_list_vid li {display:flex;align-items:center;justify-content:space-between;margin-top:20px;padding:11px 34px 11px 20px;font-size:13px;}
 .learning_wrap .learning_area .learning_list_vid li .tit {display:flex;align-items:center;font-weight:900}
-.learning_wrap .learning_area .learning_list_vid li .tit::before {content:'';width:18px;height:18px;margin-right:10px;background:url('../images/ico_novice_step_chk.svg') no-repeat 0 0 / 100% 100%;}
-.learning_wrap .learning_area .learning_list_vid li.active .tit::before {background-image:url('../images/ico_novice_step_chk_active.svg');}
+.learning_wrap .learning_area .learning_list_vid li .tit::before {content:'';width:18px;height:18px;margin-right:10px;background:url('https://kimhye-won.github.io/kmong2/images/ico_novice_step_chk.svg') no-repeat 0 0 / 100% 100%;}
+.learning_wrap .learning_area .learning_list_vid li.active .tit::before {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_novice_step_chk_active.svg');}
 .learning_wrap .learning_area .learning_list_vid li .timer {font-weight:500;}
 
 
@@ -525,11 +525,11 @@ a:hover {text-decoration:none;}
 .quiz_speaking .eng_sub p {color:#6C7072;font-size:16px;font-weight:500;}
 .quiz_speaking .btn_wrap {display:flex;justify-content:center;align-items:center;}
 .quiz_speaking .btn_top button:nth-child(2) {margin:0 15px;}
-.quiz_speaking .btn_top .btn_play {width:32px;height:32px;background: url(../images/ico_play_b.svg) no-repeat 0 0 / 100% 100%;}
+.quiz_speaking .btn_top .btn_play {width:32px;height:32px;background: url(https://kimhye-won.github.io/kmong2/images/ico_play_b.svg) no-repeat 0 0 / 100% 100%;}
 .quiz_speaking .btn_top .btn_gray {padding:0 10px;height:32px;line-height:29px;font-size:13px;font-weight:400;color:#6C7072;border:2px solid #F2F4F5;border-radius:20px;}
 .quiz_speaking .btn_bottom {margin-top:32px;display:flex;flex-direction:column;}
-.quiz_speaking .btn_bottom .btn_record {width:62px;height:62px;background: url(../images/ico_record.svg) no-repeat 0 0 / 100% 100%;}
-.quiz_speaking .btn_bottom .btn_stop {width:62px;height:62px;background: url(../images/ico_stop_gray.svg) no-repeat 0 0 / 100% 100%;}
+.quiz_speaking .btn_bottom .btn_record {width:62px;height:62px;background: url(https://kimhye-won.github.io/kmong2/images/ico_record.svg) no-repeat 0 0 / 100% 100%;}
+.quiz_speaking .btn_bottom .btn_stop {width:62px;height:62px;background: url(https://kimhye-won.github.io/kmong2/images/ico_stop_gray.svg) no-repeat 0 0 / 100% 100%;}
 .quiz_speaking .btn_bottom .txt {padding-top:20px;font-size:13px;line-height:20px;color:#6C7072;font-weight:400;text-align:center;}
 
 /** 
@@ -545,15 +545,15 @@ a:hover {text-decoration:none;}
 .quiz_speaking_result .sp_result .txt p {font-size:15px;font-weight:500;}
 
 .quiz_speaking_result .sp_result01 .step {background-color: #FFF059;}
-.quiz_speaking_result .sp_result01 .ico_imogi {background-image:url('../images/result_imo1.png');}
+.quiz_speaking_result .sp_result01 .ico_imogi {background-image:url('https://kimhye-won.github.io/kmong2/images/result_imo1.png');}
 .quiz_speaking_result .sp_result02 .step {background-color: #4FF788;}
-.quiz_speaking_result .sp_result02 .ico_imogi {background-image:url('../images/result_imo2.png');}
+.quiz_speaking_result .sp_result02 .ico_imogi {background-image:url('https://kimhye-won.github.io/kmong2/images/result_imo2.png');}
 .quiz_speaking_result .sp_result03 .step {background-color: #75C8FF;}
-.quiz_speaking_result .sp_result03 .ico_imogi {background-image:url('../images/result_imo3.png');}
+.quiz_speaking_result .sp_result03 .ico_imogi {background-image:url('https://kimhye-won.github.io/kmong2/images/result_imo3.png');}
 .quiz_speaking_result .sp_result04 .step {background-color: #6C7072;color:#fff;}
-.quiz_speaking_result .sp_result04 .ico_imogi {background-image:url('../images/result_imo4.png');}
+.quiz_speaking_result .sp_result04 .ico_imogi {background-image:url('https://kimhye-won.github.io/kmong2/images/result_imo4.png');}
 .quiz_speaking_result .sp_result05 .step {background-color: #303437;color:#fff;}
-.quiz_speaking_result .sp_result05 .ico_imogi {background-image:url('../images/result_imo5.png');}
+.quiz_speaking_result .sp_result05 .ico_imogi {background-image:url('https://kimhye-won.github.io/kmong2/images/result_imo5.png');}
 
 .quiz_speaking_result .record_wrap {padding-top:56px;}
 .quiz_speaking_result .record_txt {padding-right:48px;}
@@ -566,8 +566,8 @@ a:hover {text-decoration:none;}
 .quiz_speaking_result .btn_wrap .btn {padding:8px 15px;border:1px solid #F2F4F5;border-radius:26px;}
 .quiz_speaking_result .btn_wrap .btn span {padding-left:15px;font-size:13px;color:#6C7072;background-repeat:no-repeat;background-position:0 center;background-size:11px 10px;}
 .quiz_speaking_result .btn_voice {margin-right:10px;}
-.quiz_speaking_result .btn_voice span {background-image:url('../images/ico_play_s.svg');}
-.quiz_speaking_result .btn_repeat span {background-image:url('../images/ico_reset.svg');}
+.quiz_speaking_result .btn_voice span {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_play_s.svg');}
+.quiz_speaking_result .btn_repeat span {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_reset.svg');}
 
 .quiz_speaking .btn_top {width: calc(100% - 50px); padding: 11px 20px; margin: 30px 25px 0; display: flex; justify-content: space-between; align-items: center; background-color: #fafafa; border-radius: 16px;}
 .quiz_speaking .btn_wrap .btn_gray {background-color: #fff;}
@@ -578,11 +578,11 @@ a:hover {text-decoration:none;}
 
 .quiz_speaking .btn_bottom .btn_step0 {background: #090a0a; }
 .quiz_speaking .btn_bottom .btn_step0 .text {color: #fff; } 
-.quiz_speaking .btn_bottom .btn_step0 .text::before {width: 21px; height: 33px; background: url('../images/ico_mic.svg') no-repeat 0 0 / 100% 100%;}
+.quiz_speaking .btn_bottom .btn_step0 .text::before {width: 21px; height: 33px; background: url('https://kimhye-won.github.io/kmong2/images/ico_mic.svg') no-repeat 0 0 / 100% 100%;}
 
 .quiz_speaking .btn_bottom .btn_step1 {background: #FFF059; position: relative; animation: circle 15s infinite; }
 .quiz_speaking .btn_bottom .btn_step1 .text {color: #090A0A; z-index: 100; position: relative;}
-.quiz_speaking .btn_bottom .btn_step1 .text::before {width: 35px; height: 36px; background: url('../images/ico_listen.svg') no-repeat 0 0 / 100% 100%;}
+.quiz_speaking .btn_bottom .btn_step1 .text::before {width: 35px; height: 36px; background: url('https://kimhye-won.github.io/kmong2/images/ico_listen.svg') no-repeat 0 0 / 100% 100%;}
 
 
 
@@ -694,7 +694,7 @@ a:hover {text-decoration:none;}
 
 .quiz_speaking .btn_bottom .btn_step2 { background: #FAFAFA; position: relative; }
 .quiz_speaking .btn_bottom .btn_step2 .text {color: #595959; z-index: 100; position: relative;}
-.quiz_speaking .btn_bottom .btn_step2 .text::before {margin-bottom: 7px; width: 29px; height: 29px; background: url('../images/ico_chart.svg') no-repeat 0 0 / 100% 100%;}
+.quiz_speaking .btn_bottom .btn_step2 .text::before {margin-bottom: 7px; width: 29px; height: 29px; background: url('https://kimhye-won.github.io/kmong2/images/ico_chart.svg') no-repeat 0 0 / 100% 100%;}
 
 
 .btn_step2 .circle-wrap {display: block;}
@@ -778,15 +778,15 @@ transform: rotate(180deg);
 .quiz_listening .list_word .btn_word.error {color:#fff;background: #fe5146;}
 .quiz_listening .btn_wrap {display:flex;justify-content:center;align-items:center;}
 .quiz_listening .btn_wrap .btn_player {margin-right:15px;width:62px;height:62px;background-repeat:no-repeat;background-position:0 0;background-size:100% 100%;}
-.quiz_listening .btn_wrap .btn_play {background-image: url('../images/ico_playL_b.svg');}
-.quiz_listening .btn_wrap .btn_pause {background-image: url('../images/ico_pauseL.svg');}
+.quiz_listening .btn_wrap .btn_play {background-image: url('https://kimhye-won.github.io/kmong2/images/ico_playL_b.svg');}
+.quiz_listening .btn_wrap .btn_pause {background-image: url('https://kimhye-won.github.io/kmong2/images/ico_pauseL.svg');}
 .quiz_listening .btn_wrap .btn_gray {padding:0 10px;height:32px;line-height:29px;font-size:13px;font-weight:400;color:#6C7072;border:2px solid #F2F4F5;border-radius:20px;}
 .quiz_listening .quiz_answer_alert {margin-top:24px;}
 .quiz_listening .notice {margin-bottom: 22px; padding: 6px 0;border-radius: 16px; background-color: #FAFAFA;}
 .quiz_listening .notice p {font-size: 12px; color: #D0D0D0; font-weight: 400; text-align: center;}
 .quiz_listening .list_word_wrap .list_word {display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;}
 .quiz_listening .btn_top {width: calc(100% - 50px); padding: 11px 20px; margin: 30px 25px 0; display: flex; justify-content: space-between; align-items: center; background-color: #fafafa; border-radius: 16px;}
-.quiz_listening .btn_top .btn_play {width: 32px; height: 32px; background: url('../images/ico_play_small.png') no-repeat 0 0 / 100% 100%;}
+.quiz_listening .btn_top .btn_play {width: 32px; height: 32px; background: url('https://kimhye-won.github.io/kmong2/images/ico_play_small.png') no-repeat 0 0 / 100% 100%;}
 .quiz_listening .btn_wrap .btn_gray {background-color: #fff;}
 
 
@@ -805,7 +805,7 @@ transform: rotate(180deg);
 .quiz_word button + button {margin-top:10px;}
 .quiz_word .quiz_answer_alert {margin-top:40px;}
 .quiz_word .btn_home_s {margin-top:16px;padding:0 16px 0 41px;height:40px;position:relative;font-size:13px;font-weight:700;color:#303437;border:1px solid #d9d9d9;border-radius:20px;}
-.quiz_word .btn_home_s:before {content:'';position:absolute;top:50%;left:20px;transform:translateY(-50%);width:13px;height:14px;background:url('../images/ico_home_s.svg') no-repeat 100% 100%/cover;}
+.quiz_word .btn_home_s:before {content:'';position:absolute;top:50%;left:20px;transform:translateY(-50%);width:13px;height:14px;background:url('https://kimhye-won.github.io/kmong2/images/ico_home_s.svg') no-repeat 100% 100%/cover;}
 
 
 /**
@@ -856,16 +856,16 @@ transform: rotate(180deg);
 .challenge_detail .cnt_btm .txt_tip {padding-left:22px;font-size:13px;font-weight:700;color:#303437;}
 .challenge_detail .cnt_btm .txt_wrap li {padding-left:22px;position:relative;font-size:13px;color:#303437;}
 .challenge_detail .cnt_btm .txt_wrap li:before {content:'';width:16px;height:16px;position:absolute;top:5px;left:0;}
-.challenge_detail .cnt_btm .txt_wrap li:first-child:before {background: url('../images/ico_challenge1.svg') no-repeat 100% 100%/cover;}
-.challenge_detail .cnt_btm .txt_wrap li:last-child:before {background: url('../images/ico_challenge2.svg') no-repeat 100% 100%/cover;}
+.challenge_detail .cnt_btm .txt_wrap li:first-child:before {background: url('https://kimhye-won.github.io/kmong2/images/ico_challenge1.svg') no-repeat 100% 100%/cover;}
+.challenge_detail .cnt_btm .txt_wrap li:last-child:before {background: url('https://kimhye-won.github.io/kmong2/images/ico_challenge2.svg') no-repeat 100% 100%/cover;}
 .challenge_detail .cnt_btm .period {padding-top:68px;text-align:center;}
 .challenge_detail .cnt_btm .period p {padding-left:19px;position:relative;display:inline-block;font-size:13px;font-weight:500;color:#6c7072;}
-.challenge_detail .cnt_btm .period p:before {content:'';width:14px;height:14px;position:absolute;left:0;top:50%;transform:translateY(-50%);background:url('../images/ico_challenge3.svg') no-repeat 100% 100%/cover;}
+.challenge_detail .cnt_btm .period p:before {content:'';width:14px;height:14px;position:absolute;left:0;top:50%;transform:translateY(-50%);background:url('https://kimhye-won.github.io/kmong2/images/ico_challenge3.svg') no-repeat 100% 100%/cover;}
 .challenge_detail #fix_bottom {margin-bottom:90px;}
 .challenge_detail #fix_bottom .btn.btn_type01 {margin-bottom:0;}
 .challenge_detail #fix_bottom .people {padding-top:10px;text-align:center;}
 .challenge_detail #fix_bottom .people p {display:inline-block;position:relative;padding-left:15px;font-size:13px;color:#6c7072;}
-.challenge_detail #fix_bottom .people p:before {content:'';width:11px;height:11px;position:absolute;left:0;top:50%;transform:translateY(-50%);background:url('../images/ico_peoples.svg') no-repeat 100% 100%/cover;}
+.challenge_detail #fix_bottom .people p:before {content:'';width:11px;height:11px;position:absolute;left:0;top:50%;transform:translateY(-50%);background:url('https://kimhye-won.github.io/kmong2/images/ico_peoples.svg') no-repeat 100% 100%/cover;}
 
 
 /**
@@ -903,7 +903,7 @@ transform: rotate(180deg);
 .profile .cont_accrue .accure_total .time {display: flex; align-items: center; justify-content: flex-end; font-size: 40px; font-weight: 800;}
 .profile .cont_accrue .accure_total .time span {display: flex; line-height: 100%;}
 .profile .cont_accrue .accure_total .time sub {font-size: 22px; vertical-align: text-top; line-height: 100%;}
-.profile .cont_accrue .accure_total .time:before {content: ''; display: block; width: 35px; height: 33px; margin-right: 15px; background: url('../images/profile/ico_alarm.svg') no-repeat 0 0 / 100% 100%;}
+.profile .cont_accrue .accure_total .time:before {content: ''; display: block; width: 35px; height: 33px; margin-right: 15px; background: url('https://kimhye-won.github.io/kmong2/images/profile/ico_alarm.svg') no-repeat 0 0 / 100% 100%;}
 
 .profile .cont_accrue .accrue {display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 24px;}
 .profile .cont_accrue .accrue_item {display: flex; flex-direction: column; justify-content: space-between; width: calc(50% - 4px); height: 164px;padding: 15px; margin-top: 8px; background-color: #FAFAFA; border-radius: 12px;}
@@ -921,11 +921,11 @@ transform: rotate(180deg);
 .profile .subscribe_tab .bg:before {content: ''; position: absolute; top: 128px; left: 0; width: 100%; height: 100%; background-color: #FAFAFA; z-index: -1;}
 .profile .subscribe_tab .btn_wrap {margin-top: 33px;}
 .profile .sec_wrap + .sec_wrap {padding-top: 40px;}
-.profile .cont_scription .ticket {display: flex; align-items: center; justify-content: center; max-width: 334px; height: 190px; margin:0 auto; background: url('../images/profile/bg_scription_active.svg') no-repeat 0 0 / 100% 100%;} 
+.profile .cont_scription .ticket {display: flex; align-items: center; justify-content: center; max-width: 334px; height: 190px; margin:0 auto; background: url('https://kimhye-won.github.io/kmong2/images/profile/bg_scription_active.svg') no-repeat 0 0 / 100% 100%;} 
 .profile .cont_scription .ticket .box {text-align: center;  color: #090A0A;}
 .profile .cont_scription .ticket .name {margin-top: 5px; font-size: 30px; font-weight: 700;}
 .profile .cont_scription .ticket .date {margin-top: 10px; font-size: 14px; font-weight: 500;}
-.profile .cont_scription .ticket.none {max-width: 304px; height: 175px; background-image: url('../images/profile/bg_scription.svg');}
+.profile .cont_scription .ticket.none {max-width: 304px; height: 175px; background-image: url('https://kimhye-won.github.io/kmong2/images/profile/bg_scription.svg');}
 .profile .cont_scription .ticket .ticket_more { max-width: 150px; width: 100%; text-align: center; padding:5px 0; margin-top: 10px; font-size:14px; border-radius: 14px; color:#888; background:#FFF7A9;; }
 .profile .cont_scription .card {display: flex; align-items: center; max-width: 304px; height: 175px; padding: 26px 30px; margin: 0 auto; text-align: center; border-radius: 15px; background-color: #fff;}
 .profile .cont_scription .card .box {display: flex; flex-direction: column; justify-content: space-between; width: 100%; height: 100%;}
@@ -976,7 +976,7 @@ transform: rotate(180deg);
 .profile .cont_profile .user_img {position: relative; width: 80px; height: 80px;}
 .profile .cont_profile .user_img a {overflow: hidden; border-radius: 80px; position: absolute; top: 50%; left: 50%; width: 100%; height: 100%; transform: translate(-50%, -50%);}
 .profile .cont_profile .user_img a img {width: 100%; height: 100%; object-fit: coverf;}
-.profile .cont_profile .user_img:before {content: ''; position: absolute; bottom: -4px; right: -4px; width: 26px; height: 26px; background: url('../images/profile/ico_user_setting.svg') no-repeat 0 0 / 100% 100%; z-index: 2;}
+.profile .cont_profile .user_img:before {content: ''; position: absolute; bottom: -4px; right: -4px; width: 26px; height: 26px; background: url('https://kimhye-won.github.io/kmong2/images/profile/ico_user_setting.svg') no-repeat 0 0 / 100% 100%; z-index: 2;}
 
 .profile .cont_form {margin-top: 14px;}
 .profile .cont_form .form_item:not(:first-of-type) {margin-top: 20px;}
@@ -987,7 +987,7 @@ transform: rotate(180deg);
 .profile .cont_form .form_item .ipt_style {width: 100%; height: 54px; padding: 0 24px; font-size: 16px; font-weight: 600; color: #303437; border: 1px solid #bbb; border-radius: 10px;}
 .profile .cont_form .form_item .ipt_style:read-only {border-color: #FAFAFA; background-color: #FAFAFA; color: #888;}
 .profile .cont_form .form_item .tel_box {position: relative;}
-.profile .cont_form .form_item .tel_box select {position: absolute; top: 50%; left: 24px; padding-right: 22px; font-size: 16px; font-weight: 600; color: #303437; border: none; outline: none; transform: translateY(-50%); -webkit-appearance: none; -moz-appearance: none; background: url('../images/profile/ico_form_select_arrow.svg') no-repeat right center / 12px 7px;}
+.profile .cont_form .form_item .tel_box select {position: absolute; top: 50%; left: 24px; padding-right: 22px; font-size: 16px; font-weight: 600; color: #303437; border: none; outline: none; transform: translateY(-50%); -webkit-appearance: none; -moz-appearance: none; background: url('https://kimhye-won.github.io/kmong2/images/profile/ico_form_select_arrow.svg') no-repeat right center / 12px 7px;}
 .profile .cont_form .form_item .tel_box select:disabled {background: none; color: #888; opacity: 1;}
 .profile .cont_form .form_item .tel_box select:disabled + .ipt_style {padding-left: 70px;}
 .profile .cont_form .form_item .tel_box .ipt_style {padding-left: 110px;}
@@ -1004,8 +1004,8 @@ transform: rotate(180deg);
 .profile .cont_payment .payment_head {padding: 17px 26px 86px 26px; background-color: #FAFAFA; border-radius: 15px;}
 .profile .cont_payment .payment_head .txt {font-size: 14px; font-weight: 500; color: #414141;}
 .profile .cont_payment .payment_list {max-width: 311px; margin: 0 auto; margin-top: -70px;}
-.profile .cont_payment .payment_list li {padding: 40px 50px 80px 50px; background: url('../images/profile/bg_payment_first.png') no-repeat 0 0 / 100% 100%;}
-.profile .cont_payment .payment_list li:not(:first-child) {padding-top: 60px; margin-top: -20px; background-image: url('../images/profile/bg_payment.png');}
+.profile .cont_payment .payment_list li {padding: 40px 50px 80px 50px; background: url('https://kimhye-won.github.io/kmong2/images/profile/bg_payment_first.png') no-repeat 0 0 / 100% 100%;}
+.profile .cont_payment .payment_list li:not(:first-child) {padding-top: 60px; margin-top: -20px; background-image: url('https://kimhye-won.github.io/kmong2/images/profile/bg_payment.png');}
 .profile .cont_payment .payment_list li .month {font-size: 22px; font-weight: 700; font-weight: 700; color: #090a0a;}
 .profile .cont_payment .payment_list li dl {display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 30px; letter-spacing: -0.5px;}
 .profile .cont_payment .payment_list li dl dt {width: 60px; padding: 16px 0 10px; font-weight: 14px; color: #a0a0a0; line-height: 17px; font-weight: 700; border-bottom: 1px solid #F2F2F2;}
@@ -1066,9 +1066,9 @@ transform: rotate(180deg);
 .review_wrap .word_tab .box_shadow {padding:26px 20px;display:flex;justify-content:space-between;align-items:center;}
 .review_wrap .word_tab .box_shadow + .box_shadow {margin-top:18px;}
 .review_wrap .word_tab .btn_word_chk {display:flex;align-items:center;position:relative;font-size:13px;font-weight:700;color:#090A0A;}
-.review_wrap .word_tab .btn_word_chk:before {margin-right:10px;content:'';width:18px;height:18px;display:inline;background:url('../images/ico_chk_gray.svg') no-repeat 100% 100%/cover;}
-.review_wrap .word_tab .btn_word_chk.active:before {background-image:url('../images/ico_novice_step_chk_active.svg');}
-.review_wrap .word_tab .btn_del_reivew {width:8px;height:8px;background:url('../images/ico_del_review.svg') no-repeat 100% 100%/cover;}
+.review_wrap .word_tab .btn_word_chk:before {margin-right:10px;content:'';width:18px;height:18px;display:inline;background:url('https://kimhye-won.github.io/kmong2/images/ico_chk_gray.svg') no-repeat 100% 100%/cover;}
+.review_wrap .word_tab .btn_word_chk.active:before {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_novice_step_chk_active.svg');}
+.review_wrap .word_tab .btn_del_reivew {width:8px;height:8px;background:url('https://kimhye-won.github.io/kmong2/images/ico_del_review.svg') no-repeat 100% 100%/cover;}
 .review_wrap .like_tab .list + .list {padding-top:60px;}
 .review_wrap .like_tab .list_tit {padding-bottom:17px;font-size:15px;font-weight:700;color:#303437;}
 .review_wrap .like_tab .like_btn {position:absolute;right:11px;top:13px;}
@@ -1088,8 +1088,8 @@ transform: rotate(180deg);
     Search
 **/
 .search_box {display:flex;align-items:center;flex-direction:row-reverse;width:100%;}
-.search_box input {flex-grow:1;height:36px;padding:0 16px 0 48px;font-size:15px;line-height:24px;color:#72777A;border:1px solid #E3E5E5;border-radius:18px;background:url('../images/ico_search_20.svg') no-repeat 15px 8px / 18px 18px;}
-.search_box .btn_page_prev {width:38px;height:38px;padding:10px;margin:0 13px 0 -10px;font-size:1px;color:transparent;text-indent:-99999em;background:url('../images/ico_page_prev.svg') no-repeat center center / 18px 18px;}
+.search_box input {flex-grow:1;height:36px;padding:0 16px 0 48px;font-size:15px;line-height:24px;color:#72777A;border:1px solid #E3E5E5;border-radius:18px;background:url('https://kimhye-won.github.io/kmong2/images/ico_search_20.svg') no-repeat 15px 8px / 18px 18px;}
+.search_box .btn_page_prev {width:38px;height:38px;padding:10px;margin:0 13px 0 -10px;font-size:1px;color:transparent;text-indent:-99999em;background:url('https://kimhye-won.github.io/kmong2/images/ico_page_prev.svg') no-repeat center center / 18px 18px;}
 
 .search_wrap .keyword_wrap .keyward_box {padding:20px;}
 .search_wrap .keyword_wrap .keyward_box + .keyward_box {border-top:1px solid #F2F4F5;}
@@ -1097,10 +1097,10 @@ transform: rotate(180deg);
 .search_wrap .keyword_wrap .keyward_box .title_box .title {font-size:17px;font-weight:700;line-height:24px;color:#303437;}
 .search_wrap .keyword_wrap .keyward_box .title_box .clear_btn {display:inline-flex;font-size:15px;line-height:21px;color:#6C7072;}
 .search_wrap .keyword_wrap .keyword_new .keyword_list {margin-top:40px;}
-.search_wrap .keyword_wrap .keyword_new .keyword_list .list {display:flex;justify-content:space-between;position:relative;padding:12px 0 12px 25px;background:url('../images/ico_clock.svg') no-repeat 13px left / 12px 12px;}
-.search_wrap .keyword_wrap .keyword_new .keyword_list .list {display:flex;justify-content:space-between;position:relative;padding:12px 25px;background:url('../images/ico_clock.svg') no-repeat 0 14px / 12px 12px;}
+.search_wrap .keyword_wrap .keyword_new .keyword_list .list {display:flex;justify-content:space-between;position:relative;padding:12px 0 12px 25px;background:url('https://kimhye-won.github.io/kmong2/images/ico_clock.svg') no-repeat 13px left / 12px 12px;}
+.search_wrap .keyword_wrap .keyword_new .keyword_list .list {display:flex;justify-content:space-between;position:relative;padding:12px 25px;background:url('https://kimhye-won.github.io/kmong2/images/ico_clock.svg') no-repeat 0 14px / 12px 12px;}
 .search_wrap .keyword_wrap .keyword_new .keyword_list .list .word_btn {font-size:15px;line-height:15px;color:#6C7072;word-break:break-all;}
-.search_wrap .keyword_wrap .keyword_new .keyword_list .list .clear_btn {position:absolute;top:16px;right:-5px;width:18px;height:18px;padding:5px;font-size:1px;color:transparent;text-indent:-99999em;background:url('../images/ico_close.svg') no-repeat center center / 8px 8px;}
+.search_wrap .keyword_wrap .keyword_new .keyword_list .list .clear_btn {position:absolute;top:16px;right:-5px;width:18px;height:18px;padding:5px;font-size:1px;color:transparent;text-indent:-99999em;background:url('https://kimhye-won.github.io/kmong2/images/ico_close.svg') no-repeat center center / 8px 8px;}
 .search_wrap .keyword_wrap .keyword_new .keyword_list .list.nodata {display:flex;justify-content:center;align-items:center;margin-top:-20px;height:167px;background:none;}
 .search_wrap .keyword_wrap .keyword_new .keyword_list .list.nodata p {font-size:15px;line-height:15px;color:#6C7072;}
 .search_wrap .keyword_wrap .keyword_pop .keyword_list {display:flex;flex-wrap:wrap;margin-top:8px;margin-left:-12px;}
@@ -1137,15 +1137,15 @@ transform: rotate(180deg);
 .setting_wrap .filter_box .filter_search .search_input .search_input {padding:0 48px 0 16px;font-size:13px;color:#72777A;}
 .setting_wrap .filter_box .filter_search .search_input .search_input {width:100%;height:38px;padding:0 48px 0 16px;font-size:13px;color:#72777A;border:1px solid #E3E5E5;border-radius:20px;background-color:#ffffff;}
 .setting_wrap .filter_box .filter_search .search_input .search_input:focus {border-color:#FFF059;}
-.setting_wrap .filter_box .filter_search .search_input .search_btn {position:absolute;top:0;right:10px;width:38px;height:100%;font-size:1px;text-indent:-99999em;color:transparent;background:url('../images/ico_search_18.svg') no-repeat center center / 15px 15px;}
+.setting_wrap .filter_box .filter_search .search_input .search_btn {position:absolute;top:0;right:10px;width:38px;height:100%;font-size:1px;text-indent:-99999em;color:transparent;background:url('https://kimhye-won.github.io/kmong2/images/ico_search_18.svg') no-repeat center center / 15px 15px;}
 .setting_wrap .filter_box .filter_search .record_list {display:flex;flex-wrap:wrap;min-height:38px;margin-top:2px;margin-left:-12px;}
 .setting_wrap .filter_box .filter_search .record_list .list {display:inline-flex;justify-content:center;align-items:center;margin-top:12px;margin-left:12px;background-color:#FAFAFA;border:1px solid #F2F4F5;border-radius:20px;}
 .setting_wrap .filter_box .filter_search .record_list .list .move_btn {padding:7px 0 7px 13px;font-size:13px;line-height:13px;color:#303437;}
-.setting_wrap .filter_box .filter_search .record_list .list .del_btn {width:25px;height:100%;padding:7px 13px 7px 0;margin-left:4px;font-size:1px;text-indent:-99999em;color:transparent;background:url('../images/ico_close.svg') no-repeat 3px center / 6px 6px;}
+.setting_wrap .filter_box .filter_search .record_list .list .del_btn {width:25px;height:100%;padding:7px 13px 7px 0;margin-left:4px;font-size:1px;text-indent:-99999em;color:transparent;background:url('https://kimhye-won.github.io/kmong2/images/ico_close.svg') no-repeat 3px center / 6px 6px;}
 .setting_wrap .result_list {display:flex;flex-direction:column;flex-wrap:wrap;flex-grow:1;}
 .setting_wrap .result_list .list {display:flex;align-items:center;width:100%;padding:0 24px;border-bottom:1px solid #F2F4F5;}
 .setting_wrap .result_list .list .result_btn {flex-grow:1;padding:16px 0;font-size:15px;color:#303437;}
-.setting_wrap .result_list .list .infor_btn {width:25px;height:25px;margin-left:10px;font-size:1px;text-indent:-99999em;color:transparent;background:url('../images/ico_info_mark.svg') no-repeat center center / 16px 16px;}
+.setting_wrap .result_list .list .infor_btn {width:25px;height:25px;margin-left:10px;font-size:1px;text-indent:-99999em;color:transparent;background:url('https://kimhye-won.github.io/kmong2/images/ico_info_mark.svg') no-repeat center center / 16px 16px;}
 .setting_wrap .result_list .nodata {display:inline-flex;justify-content:center;align-items:center;flex-grow:1;}
 .setting_wrap .result_list .nodata p {text-align:center;font-size:15px;line-height:28px;color:#303437;}
 .setting_wrap .result_list .nodata p span {display:block;font-size:13px;}
@@ -1172,7 +1172,7 @@ transform: rotate(180deg);
 .theme_wrap .theme_list .list .theme_text {flex-grow:1;margin:0 20px;text-align:left;font-size:13px;font-weight:700;color:#090A0A;}
 .theme_wrap .theme_list .list .timer {text-align:right;font-size:13px;font-weight:500;color:#090A0A;}
 .theme_wrap .tip_box {padding:0 20px;margin-top:80px;}
-.theme_wrap .tip_box .tip_tit {padding-left:24px;font-size:15px;font-weight:700;line-height:24px;color:#303437;background:url('../images/imo_advice.svg') no-repeat left center / 16px 16px;}
+.theme_wrap .tip_box .tip_tit {padding-left:24px;font-size:15px;font-weight:700;line-height:24px;color:#303437;background:url('https://kimhye-won.github.io/kmong2/images/imo_advice.svg') no-repeat left center / 16px 16px;}
 .theme_wrap .tip_box .tip_list {margin-top:11px;font-size:13px;line-height:24px;color:#303437;}
 .theme_wrap .channel_info {display:flex;justify-content:space-between;align-items:center;padding:27px 24px 0;}
 .theme_wrap .channel_info .creator {display:flex;flex:1;align-items:center;margin:13px 0 12px;}
@@ -1221,10 +1221,10 @@ transform: rotate(180deg);
 .vlog_wrap .word_box .word_detail.note2 .tit {padding-left:23px;}
 .vlog_wrap .word_box .word_detail .tit::before {content:'';position:absolute;top:4px;left:0;width:4px;height:16px;background-color:#303437;}
 .vlog_wrap .word_box .word_detail.note2 .tit::before {display:none;}
-.vlog_wrap .word_box .word_detail.note .tit {background:url('../images/imo_learn1.svg') no-repeat 9px center / 18px auto;}
-.vlog_wrap .word_box .word_detail.note2 .tit {background:url('../images/imo_learn4.svg') no-repeat left center / 18px auto;}
-.vlog_wrap .word_box .word_detail.apply .tit {background:url('../images/imo_learn2.svg') no-repeat 9px center / 18px auto;}
-.vlog_wrap .word_box .word_detail.exemple .tit {background:url('../images/imo_learn3.svg') no-repeat 9px center / 18px auto;}
+.vlog_wrap .word_box .word_detail.note .tit {background:url('https://kimhye-won.github.io/kmong2/images/imo_learn1.svg') no-repeat 9px center / 18px auto;}
+.vlog_wrap .word_box .word_detail.note2 .tit {background:url('https://kimhye-won.github.io/kmong2/images/imo_learn4.svg') no-repeat left center / 18px auto;}
+.vlog_wrap .word_box .word_detail.apply .tit {background:url('https://kimhye-won.github.io/kmong2/images/imo_learn2.svg') no-repeat 9px center / 18px auto;}
+.vlog_wrap .word_box .word_detail.exemple .tit {background:url('https://kimhye-won.github.io/kmong2/images/imo_learn3.svg') no-repeat 9px center / 18px auto;}
 .vlog_wrap .word_box .word_detail .desc {margin-top:8px;font-size:15px;line-height:24px;color:#303437;letter-spacing:-.05em;word-break:keep-all;}
 .vlog_wrap .word_box .word_detail.apply .desc li {display:flex;align-items:center;}
 .vlog_wrap .word_box .word_detail.apply .desc li + li {margin-top:8px;}
@@ -1243,11 +1243,11 @@ transform: rotate(180deg);
 .layerBg .pick_noti {display:flex;flex-direction:column;justify-content:space-between;height:101px;margin:34px 0 40px;}
 .layerBg .pick_noti .noti {font-size:15px;font-weight:900;line-height:24px;color:#ffffff;letter-spacing:-.05em;text-align:center;}
 .layerBg .down_word {display:inline-flex;align-items:center;height:34px;padding:0 22px;margin:0 5px;background-color:#fff;border-radius:18px;}
-.layerBg .down_word span {padding-left:18px;font-size:13px;font-weight:700;color:#303437;background:url('../images/ico_download.svg') no-repeat left center / 12px auto;}
-.layerBg .down_word:disabled span {background-image:url('../images/ico_download_disabled.svg');}
+.layerBg .down_word span {padding-left:18px;font-size:13px;font-weight:700;color:#303437;background:url('https://kimhye-won.github.io/kmong2/images/ico_download.svg') no-repeat left center / 12px auto;}
+.layerBg .down_word:disabled span {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_download_disabled.svg');}
 .layerBg .search_word {display:inline-flex;align-items:center;height:34px;padding:0 22px;margin:0 5px;background-color:#ffffff;border-radius:18px;}
-.layerBg .search_word span {padding-left:22px;font-size:13px;font-weight:700;color:#303437;background:url('../images/ico_dictionary_s.svg') no-repeat left center / 16px auto;}
-.layerBg .search_word:disabled span {background-image:url('../images/ico_dictionary_s_disabled.svg');}
+.layerBg .search_word span {padding-left:22px;font-size:13px;font-weight:700;color:#303437;background:url('https://kimhye-won.github.io/kmong2/images/ico_dictionary_s.svg') no-repeat left center / 16px auto;}
+.layerBg .search_word:disabled span {background-image:url('https://kimhye-won.github.io/kmong2/images/ico_dictionary_s_disabled.svg');}
 .layerBg .btn_box button:disabled {background-color:#F2F4F5;}
 .layerBg .btn_box button:disabled span {color:#ABB1B4;}
 
@@ -1256,20 +1256,20 @@ transform: rotate(180deg);
 **/
 .membershipSub { height: 100%; background-color: rgba(19, 33, 68, 0.3);}
 .membershipSubWrap {padding-bottom: 50px; background-color: #fff; position: relative; top: 50%; transform: translateY(-50%);}
-.membershipSub .msSubTop {padding: 12% 0 26%; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; width: 100%; background: url('../images/sb-bg.png') no-repeat center center/cover; }
-.membershipSub .msSubTop h1 {display:inline-block; background: url('../images/logo.png') no-repeat center/cover; width: 106px; height: 16px; font-size: 0; line-height: 0; text-indent: -9999px;}
+.membershipSub .msSubTop {padding: 12% 0 26%; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; width: 100%; background: url('https://kimhye-won.github.io/kmong2/images/sb-bg.png') no-repeat center center/cover; }
+.membershipSub .msSubTop h1 {display:inline-block; background: url('https://kimhye-won.github.io/kmong2/images/logo.png') no-repeat center/cover; width: 106px; height: 16px; font-size: 0; line-height: 0; text-indent: -9999px;}
 .membershipSub .msSubTop p {margin: 23px 0 28px; font-weight: 800; font-size: 18px; line-height: 22px;}
 .membershipSub .msSubTop span {padding-left: 24px; position: relative; display: inline-block; background-color: #000; width: 123px; height: 28px; border-radius: 24px; color: #fff; font-size: 15px; font-weight: 700; line-height: 28px; }
-.membershipSub .discount:before {content: ''; position: absolute; top: 4px; left: 12px; width: 18px; height:18px; background: url('../images/ic_f.png') no-repeat center/cover;}
-.membershipSub .btn-close {position: absolute; right: 23px; top: 23px; background: url('../images/close_black.png') no-repeat center/cover; width: 32px; height: 32px; font-size: 0; line-height: 0; text-indent: -9999px;}
+.membershipSub .discount:before {content: ''; position: absolute; top: 4px; left: 12px; width: 18px; height:18px; background: url('https://kimhye-won.github.io/kmong2/images/ic_f.png') no-repeat center/cover;}
+.membershipSub .btn-close {position: absolute; right: 23px; top: 23px; background: url('https://kimhye-won.github.io/kmong2/images/close_black.png') no-repeat center/cover; width: 32px; height: 32px; font-size: 0; line-height: 0; text-indent: -9999px;}
 
 .membershipSub .msSubCon {margin-top: 10%; padding: 0 10%; }
 .membershipSub .msSubCon li {padding-left: 33px; position: relative;}
 .membershipSub .msSubCon li:not(:first-child) {margin-top: 45px;}
 .membershipSub .msSubCon li:before {content: ''; position: absolute; top: 0; left: 0; width: 24px; height: 24px;}
-.membershipSub .msSubCon li:first-child:before {background: url('../images/icon1.png') no-repeat center/cover; }
-.membershipSub .msSubCon li:nth-child(2):before {background: url('../images/icon2.png') no-repeat center/cover; }
-.membershipSub .msSubCon li:last-child:before {background: url('../images/icon3.png') no-repeat center/cover; }
+.membershipSub .msSubCon li:first-child:before {background: url('https://kimhye-won.github.io/kmong2/images/icon1.png') no-repeat center/cover; }
+.membershipSub .msSubCon li:nth-child(2):before {background: url('https://kimhye-won.github.io/kmong2/images/icon2.png') no-repeat center/cover; }
+.membershipSub .msSubCon li:last-child:before {background: url('https://kimhye-won.github.io/kmong2/images/icon3.png') no-repeat center/cover; }
 .membershipSub .msSubCon li em {font-weight: 800; font-size: 16px; line-height: 19px;}
 .membershipSub .msSubCon li p {margin-top: 11px; font-size: 15px; line-height: 18px;} 
 
@@ -1285,15 +1285,15 @@ transform: rotate(180deg);
 .freeService.pop_on {background-color:rgba(0, 0, 0, 0.5);}
 
 .freeService .frSerTop {height: 120px; display: flex; flex-direction: column; justify-content: flex-end; align-items: center; text-align: center; }
-.freeService .frSerTop h1 {display:inline-block; background: url('../images/logo_y.png') no-repeat center/cover; width: 106px; height: 16px; font-size: 0; line-height: 0; text-indent: -9999px;}
+.freeService .frSerTop h1 {display:inline-block; background: url('https://kimhye-won.github.io/kmong2/images/logo_y.png') no-repeat center/cover; width: 106px; height: 16px; font-size: 0; line-height: 0; text-indent: -9999px;}
 .freeService .frSerTop p {margin-top: 23px; font-weight: 800; font-size: 18px; line-height: 22px;}
-.freeService .btn-close {position: absolute; right: 23px; top: 23px; background: url('../images/close_black.png') no-repeat center/cover; width: 32px; height: 32px; font-size: 0; line-height: 0; text-indent: -9999px;}
+.freeService .btn-close {position: absolute; right: 23px; top: 23px; background: url('https://kimhye-won.github.io/kmong2/images/close_black.png') no-repeat center/cover; width: 32px; height: 32px; font-size: 0; line-height: 0; text-indent: -9999px;}
 
 .freeService .frSerCon {margin-top: 14%; padding: 0 6%;}
 .freeService .frSerCon li {padding: 25px 20px; position: relative; text-align: center; display: flex; align-items: flex-start;justify-content: space-between;}
 .freeService .frSerCon li:first-child {border: 1px solid #d9d9d9; border-radius: 18px;}
 .freeService .frSerCon li:last-child {margin-top: 3%; padding-top: 40px; border: 3px solid #3d4548; border-radius: 18px;}
-.freeService .frSerCon li:last-child:before {content: ''; background: #3d4548 url('../images/best.png') no-repeat center/75px; width:104px; height: 24px; border-radius: 10px 0 10px 0px; position: absolute; top: 0; left: 0%;}
+.freeService .frSerCon li:last-child:before {content: ''; background: #3d4548 url('https://kimhye-won.github.io/kmong2/images/best.png') no-repeat center/75px; width:104px; height: 24px; border-radius: 10px 0 10px 0px; position: absolute; top: 0; left: 0%;}
 .freeService .frSerCon li > div {display: flex; align-items:flex-start;}
 .freeService .frSerCon .period {padding-left: 15px;display: block; font-size: 18px; font-weight: 900; line-height: 19px;text-align: left;}
 .freeService .frSerCon .price_wrap {padding-left: 15px; display: flex; align-items:center;}
@@ -1301,8 +1301,8 @@ transform: rotate(180deg);
 .freeService .frSerCon .price_wrap span {padding-left: 5px; color: #303437; font-size: 16px; font-weight: 600;}
 .freeService .frSerCon .price {font-size: 12px; line-height: 13px; font-weight: 400;}
 .freeService .frSerCon .priceY {font-size: 14px; font-weight: 500; line-height: 22px; color: #303437;}
-.freeService .radio-btn {font-size: 0; line-height: 0; width: 24px; height: 24px; background: url('../images/select.png') no-repeat center/cover;}
-.freeService .radio-btn.active {background: url('../images/select_on.png') no-repeat center/cover;} 
+.freeService .radio-btn {font-size: 0; line-height: 0; width: 24px; height: 24px; background: url('https://kimhye-won.github.io/kmong2/images/select.png') no-repeat center/cover;}
+.freeService .radio-btn.active {background: url('https://kimhye-won.github.io/kmong2/images/select_on.png') no-repeat center/cover;} 
 
 .freeService .alert_txt {margin-top: 10px; font-size: 15px; text-align: center; color: #666;}
 .freeService .info {padding: 0 6%;}
@@ -1316,36 +1316,36 @@ transform: rotate(180deg);
 .freeService .select-box,
 .freeService .select_btn  {display: flex; align-items: center;}
 .freeService .info_input_wrap .info_input.select_btn {padding: 0 10px 0 10px; position: relative; }
-.freeService .info_input_wrap .info_input.select_btn:after {content: ''; display: inline-block; width: 8px; height: 4px; background: url('../images/ico_select.svg') no-repeat center/cover; margin-left: 10px;}
+.freeService .info_input_wrap .info_input.select_btn:after {content: ''; display: inline-block; width: 8px; height: 4px; background: url('https://kimhye-won.github.io/kmong2/images/ico_select.svg') no-repeat center/cover; margin-left: 10px;}
 .freeService .select-box + .info_input {margin-left: 2%; width: 74% !important;}
 .freeService .select-list li {color: rgba(0, 0, 0, 0.85);  }
 .freeService .select-list li a {padding: 6px; width: 100%; display: flex; align-items: center; }
 .freeService .flag {display: inline-block; width: 20px; height: 20px; background-size: 18px 18px; background-repeat: no-repeat; background-position: center center; margin-right: 4px;}
-.freeService .us .flag {background-image: url('../images/flag/us.png');}
-.freeService .ar .flag {background-image: url('../images/flag/ar.png');}
-.freeService .au .flag {background-image: url('../images/flag/au.png');}
-.freeService .br .flag {background-image: url('../images/flag/br.png');}
-.freeService .ca .flag {background-image: url('../images/flag/ca.png');}
-.freeService .cn .flag {background-image: url('../images/flag/cn.png');}
-.freeService .de .flag {background-image: url('../images/flag/de.png');}
-.freeService .fr .flag {background-image: url('../images/flag/fr.png');}
-.freeService .gb .flag {background-image: url('../images/flag/gb.png');}
-.freeService .hk .flag {background-image: url('../images/flag/hk.png');}
-.freeService .id .flag {background-image: url('../images/flag/id.png');}
-.freeService .in .flag {background-image: url('../images/flag/in.png');}
-.freeService .it .flag {background-image: url('../images/flag/it.png');}
-.freeService .jp .flag {background-image: url('../images/flag/jp.png');}
-.freeService .kr .flag {background-image: url('../images/flag/kr.png');}
-.freeService .mo .flag {background-image: url('../images/flag/mo.png');}
-.freeService .mx .flag {background-image: url('../images/flag/mx.png');}
-.freeService .my .flag {background-image: url('../images/flag/my.png');}
-.freeService .ph .flag {background-image: url('../images/flag/ph.png');}
-.freeService .ru .flag {background-image: url('../images/flag/ru.png');}
-.freeService .sg .flag {background-image: url('../images/flag/sg.png');}
-.freeService .th .flag {background-image: url('../images/flag/th.png');}
-.freeService .tr .flag {background-image: url('../images/flag/tr.png');}
-.freeService .vn .flag {background-image: url('../images/flag/vn.png');}
-.freeService .za .flag {background-image: url('../images/flag/za.png');}
+.freeService .us .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/us.png');}
+.freeService .ar .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/ar.png');}
+.freeService .au .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/au.png');}
+.freeService .br .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/br.png');}
+.freeService .ca .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/ca.png');}
+.freeService .cn .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/cn.png');}
+.freeService .de .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/de.png');}
+.freeService .fr .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/fr.png');}
+.freeService .gb .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/gb.png');}
+.freeService .hk .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/hk.png');}
+.freeService .id .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/id.png');}
+.freeService .in .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/in.png');}
+.freeService .it .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/it.png');}
+.freeService .jp .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/jp.png');}
+.freeService .kr .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/kr.png');}
+.freeService .mo .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/mo.png');}
+.freeService .mx .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/mx.png');}
+.freeService .my .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/my.png');}
+.freeService .ph .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/ph.png');}
+.freeService .ru .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/ru.png');}
+.freeService .sg .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/sg.png');}
+.freeService .th .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/th.png');}
+.freeService .tr .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/tr.png');}
+.freeService .vn .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/vn.png');}
+.freeService .za .flag {background-image: url('https://kimhye-won.github.io/kmong2/images/flag/za.png');}
 
 .freeService_btm.btn-wrap {margin-top: 14px;}
 .freeService_btm .btn-de {font-weight: 700; font-size: 16px; display: flex; justify-content: center; align-items: center; width: calc(100% - 40px); height: 52px; margin: 0 auto; }
@@ -1365,8 +1365,8 @@ transform: rotate(180deg);
 **/
 .toastPop {display:none;position: fixed;bottom: 97px;left: 50%;transform: translateX(-50%); padding: 8px 19px;font-size: 13px;color: #000;border-radius: 20px;background-color: #fff;border: 1px solid #d9d9d9; z-index: 999;} 
 .toastPop .cont_name:before {content:'';display:inline-block;}
-.toastPop .add_like:before {width:16px;height:14px;background:url('../images/ico_heart_active.svg') no-repeat center/cover;vertical-align:-1px;}
-.toastPop .keep:before {width:14px;height:14px;background:url('../images/ico_bookmark_active.svg') no-repeat center/cover;vertical-align:-2px;}
+.toastPop .add_like:before {width:16px;height:14px;background:url('https://kimhye-won.github.io/kmong2/images/ico_heart_active.svg') no-repeat center/cover;vertical-align:-1px;}
+.toastPop .keep:before {width:14px;height:14px;background:url('https://kimhye-won.github.io/kmong2/images/ico_bookmark_active.svg') no-repeat center/cover;vertical-align:-2px;}
 .toastPop .like {font-weight:700;}
 
 
@@ -1380,13 +1380,13 @@ header
 .header {position: relative; z-index: 100;}
 .top_banner {position: relative; padding: 14px 10px 12px; display: flex; justify-content: center; background-color: #fff;}
 .top_banner .banner_link {padding-left: 10px; position: relative; display: flex; align-items: center; font-size: 14px; color: #090A0A;}
-.top_banner .banner_link:after {content: ''; margin-left: 20px; width: 24px; height: 24px; background: url('../images/main/ico_banner_more.svg') no-repeat 100% 100%/cover;}
+.top_banner .banner_link:after {content: ''; margin-left: 20px; width: 24px; height: 24px; background: url('https://kimhye-won.github.io/kmong2/images/main/ico_banner_more.svg') no-repeat 100% 100%/cover;}
 .header .header_wrap {padding: 12px 32px 14px; position: absolute; top: 0px; left: 0; width: 100%; background: rgba(255, 255, 255, 0.7); backdrop-filter: blur(10px);}
 header .header_wrap.open {background: #fff;}
 /* .header .header_wrap .inner {position: relative;} */
-.header .btn_aside {width: 24px; height: 24px; background: url('../images/main/ico_aside_open.svg') no-repeat 100% 100%/cover;}
-.header .open .btn_aside {background-image: url('../images/main/ico_aside_close.svg');}
-.header .logo {position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 85px; height: 18px; background: url('../images/main/ico_logo.svg') no-repeat center center/cover;}
+.header .btn_aside {width: 24px; height: 24px; background: url('https://kimhye-won.github.io/kmong2/images/main/ico_aside_open.svg') no-repeat 100% 100%/cover;}
+.header .open .btn_aside {background-image: url('https://kimhye-won.github.io/kmong2/images/main/ico_aside_close.svg');}
+.header .logo {position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 85px; height: 18px; background: url('https://kimhye-won.github.io/kmong2/images/main/ico_logo.svg') no-repeat center center/cover;}
 .header .logo a {display: block; height: 100%;}
 .header .header_list {display: none; padding: 40px 20px 50px; position: absolute; left: 0; top: 50px; width: 100%; background-color: #fff; z-index: 11;}
 .header .header_menu {margin-bottom: 34px; display: flex; flex-wrap: wrap; align-items: center;}
@@ -1422,7 +1422,7 @@ footer
 .footer .footer_top {padding: 108px 0 120px; line-height: 34px; font-size: 26px; font-weight: 800; color: #fff; text-align: center;}
 .footer .footer_top span {color: #fff059;}
 .footer_left {padding-top: 30px; position: relative;}
-.footer .footer_logo {width: 76px; height: 16px; background: url('../images/main/ico_logo_white.svg') no-repeat center center/cover;}
+.footer .footer_logo {width: 76px; height: 16px; background: url('https://kimhye-won.github.io/kmong2/images/main/ico_logo_white.svg') no-repeat center center/cover;}
 .footer .footer_logo a {display: block; height: 100%;}
 .footer .footer_txt {padding-top: 34px; font-size: 10px; font-weight: 500; color: #fff;}
 .footer .footer_link {display: flex; align-items: center; gap: 16px; position: absolute; right: 0px; top: 30px; height: 16px;} 
@@ -1669,10 +1669,10 @@ footer
 .login .btn_wrap .btn.btn_apple {background-color:#151515; color: #fff;}
 .login .btn_wrap .btn.btn_mail {background-color: #E7E7E7; color:#090A0A;}
 .login .btn_wrap .btn:before {content: ''; background-repeat: no-repeat; background-position: center; background-size: cover; }
-.login .btn_wrap .btn.btn_kakao:before {margin-right: 40px; width: 30px; height: 28px; background-image: url('../images/login/ico_kakao.svg');}
-.login .btn_wrap .btn.btn_naver:before {margin-right: 56px; width: 25px; height: 23px; background-image: url('../images/login/ico_naver.svg');}
-.login .btn_wrap .btn.btn_apple:before {margin-right: 57px; width: 22px; height: 29px; background-image: url('../images/login/ico_apple.svg');}
-.login .btn_wrap .btn.btn_mail:before {margin-right: 58px; width: 35px; height: 35px; background-image: url('../images/login/ico_mail.svg');}
+.login .btn_wrap .btn.btn_kakao:before {margin-right: 40px; width: 30px; height: 28px; background-image: url('https://kimhye-won.github.io/kmong2/images/login/ico_kakao.svg');}
+.login .btn_wrap .btn.btn_naver:before {margin-right: 56px; width: 25px; height: 23px; background-image: url('https://kimhye-won.github.io/kmong2/images/login/ico_naver.svg');}
+.login .btn_wrap .btn.btn_apple:before {margin-right: 57px; width: 22px; height: 29px; background-image: url('https://kimhye-won.github.io/kmong2/images/login/ico_apple.svg');}
+.login .btn_wrap .btn.btn_mail:before {margin-right: 58px; width: 35px; height: 35px; background-image: url('https://kimhye-won.github.io/kmong2/images/login/ico_mail.svg');}
 .login .login_btm {margin-top: 50px; display: flex; align-items: center; flex-direction: column;}
 .login .txt_btm {display: flex; align-items: center; flex-direction: column;}
 .login .mgt-30 {margin-top: 30px;}
@@ -1695,9 +1695,9 @@ footer
 .chk_wrap .ipt_chk {display: inline-block; position: relative; vertical-align: middle; height: 22px;}
 .chk_wrap .ipt_chk input {position: absolute; clip: rect(0, 0, 0, 0); width: 1px !important; height: 1px !important; margin: -1px; overflow: hidden;}
 .chk_wrap .ipt_chk label {display: flex; align-items: center; position: relative; height: 100%; font-size: 12px; font-weight: 500; color: #090A0A; vertical-align: middle;}
-.chk_wrap .ipt_chk label::before {content: ''; width: 22px; height: 22px; display: inline-block; margin-right: 9px; background: url('../images/login/ico_chk.svg') no-repeat center center/cover; }
+.chk_wrap .ipt_chk label::before {content: ''; width: 22px; height: 22px; display: inline-block; margin-right: 9px; background: url('https://kimhye-won.github.io/kmong2/images/login/ico_chk.svg') no-repeat center center/cover; }
 .chk_wrap .ipt_chk_more {font-size: 12px; font-weight: 500; text-decoration: underline; color: #de006b;}
-.chk_wrap .ipt_chk input:checked + label:before {background-image: url('../images/login/ico_chk_on.svg');}
+.chk_wrap .ipt_chk input:checked + label:before {background-image: url('https://kimhye-won.github.io/kmong2/images/login/ico_chk_on.svg');}
 
 /* pc */
 @media only screen and (min-width: 1400px) {
@@ -1762,7 +1762,7 @@ sub common
     sub1
 **/
 /* sub1 - ani_sec1 */
-.sub1 .ani_sec1 {padding: 70px 0; display: flex; background: url('../images/sub/sub1_sec1_img1.png') no-repeat 32% center / cover; min-height: 100vh; min-height: calc(var(--vh, 1vh) * 100);}
+.sub1 .ani_sec1 {padding: 70px 0; display: flex; background: url('https://kimhye-won.github.io/kmong2/images/sub/sub1_sec1_img1.png') no-repeat 32% center / cover; min-height: 100vh; min-height: calc(var(--vh, 1vh) * 100);}
 .sub1 .ani_sec1 .inner {height:65vh; margin: auto; display: flex; flex-direction: column; justify-content: space-between;}
 .sub1 .ani_sec1 .sub_tit,
 .sub1 .ani_sec1 .sec_txtS {color: #fff;}
@@ -1793,7 +1793,7 @@ sub common
 /* sub1 - ani_sec2 */
 .sub1 .ani_sec2 {padding: 172px 0 94px;}
 .sub1 .ani_sec2 .sec_img_resize {padding-top: 56%; margin-top: 55px; border-radius: 10px; }
-.sub1 .ani_sec2 .bubble {width: 287px; height: 106px; margin: 30px auto 0; font-size: 15px; font-weight: 700; color: #090A0A; background: url('../images/sub/sub1_sec2_bubble.png') no-repeat 0 0 / 100% 100%;}
+.sub1 .ani_sec2 .bubble {width: 287px; height: 106px; margin: 30px auto 0; font-size: 15px; font-weight: 700; color: #090A0A; background: url('https://kimhye-won.github.io/kmong2/images/sub/sub1_sec2_bubble.png') no-repeat 0 0 / 100% 100%;}
 .sub1 .ani_sec2 .bubble > span {height: 62px; padding-top: 10%; display: flex; align-items: center; justify-content: center;}
 .sub1 .ani_sec2 .sec_txtL.deco {margin-top: 15px; }
 .sub1 .ani_sec2 .sec_txtL.deco:before {bottom: 0; width: 229px; height: 16px;}
@@ -1833,7 +1833,7 @@ sub common
 .sub1 .ani_sec4 {padding: 92px 0 116px;}
 .sub1 .ani_sec4 .sec_txtL.deco {position: relative;}
 .sub1 .ani_sec4 .sec_txtL.deco span {display: block;}
-.sub1 .ani_sec4 .sec_txtL.deco:before {content: ''; position: absolute; bottom: 0; left: 0; right: 0; margin: 0 auto; width: 225px; height: 64px; background: url('../images/sub/sub1_sec4_deco_m.svg') no-repeat 0 0 / 100% auto;}
+.sub1 .ani_sec4 .sec_txtL.deco:before {content: ''; position: absolute; bottom: 0; left: 0; right: 0; margin: 0 auto; width: 225px; height: 64px; background: url('https://kimhye-won.github.io/kmong2/images/sub/sub1_sec4_deco_m.svg') no-repeat 0 0 / 100% auto;}
 .sub1 .ani_sec4 .sec_img {display: flex; flex-direction: column; justify-content: center; margin-top: 40px;}
 .sub1 .ani_sec4 .solution {position: absolute; bottom: -58px; left: 0; right: 0; margin: 0 auto; width: calc(100% - 42px); height: 117px; display: flex; align-items: center; justify-content: center; background-color: #fff; box-shadow: 0px 0px 24px rgba(186, 172, 33, 0.3); border-radius: 30px; font-size: 22px; font-weight: 800; z-index: 1;}
 .sub1 .ani_sec4 .solution > span {position: absolute; top: -15px; left: 0; right: 0; display: flex; align-items: center; justify-content: center; width: 97px; height: 31px; font-size: 14px; font-weight: 800; margin: 0 auto; background: #FFF059; border-radius: 10px;}
@@ -1897,7 +1897,7 @@ sub common
     sub2
 **/
 /* sub2 - ani_sec1 */
-.sub2 .ani_sec1 {padding: 116px 0 85px; display: flex; background: url('../images/sub/sub2_sec1_img1_m.png') no-repeat center center / cover; min-height: 100vh; min-height: calc(var(--vh, 1vh) * 100);}
+.sub2 .ani_sec1 {padding: 116px 0 85px; display: flex; background: url('https://kimhye-won.github.io/kmong2/images/sub/sub2_sec1_img1_m.png') no-repeat center center / cover; min-height: 100vh; min-height: calc(var(--vh, 1vh) * 100);}
 .sub2 .ani_sec1 .inner {width: 100%; height: 70vh; }
 .sub2 .ani_sec1 .inner_box {height: 100% ;margin: auto; display: flex; flex-direction: column; justify-content: space-between;}
 .sub2 .ani_sec1 .sub_tit {color: #fff;}
@@ -1968,7 +1968,7 @@ sub common
 .sub2 .ani_sec4 .creator .swiper-slide .creator_item .top .info_txt_box .name {font-weight: 700; font-size: 15px; line-height: 16px;}
 .sub2 .ani_sec4 .creator .swiper-slide .creator_item .cnt {position: relative; margin-top: 25px;}
 .sub2 .ani_sec4 .creator .swiper-slide .creator_item .cnt .cnt_img {width: 100%; padding-top: 130%;}
-.sub2 .ani_sec4 .creator .swiper-slide .creator_item .cnt .cnt_img:after {content:''; position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url('../images/sub/sub2_sec4_sw_shadow.png') no-repeat bottom center / 100% auto;}
+.sub2 .ani_sec4 .creator .swiper-slide .creator_item .cnt .cnt_img:after {content:''; position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url('https://kimhye-won.github.io/kmong2/images/sub/sub2_sec4_sw_shadow.png') no-repeat bottom center / 100% auto;}
 .sub2 .ani_sec4 .creator .swiper-slide .creator_item .cnt .cnt_txt {position: absolute; bottom: 30px; left: 0; right: 0; margin: 0 auto; width: calc(100% - 60px); text-align: left; font-size: 12px; line-height: 22px; color: #fff; font-weight: 500;}
 .sub2 .ani_sec4 .creator .swiper-pagination {display: block; position: static; margin-top: 34px; line-height: 100%;}
 .sub2 .ani_sec4 .creator .swiper-pagination-bullet-active {background-color: #bbb !important;}
@@ -2027,7 +2027,7 @@ sub common
 .sub3 .ani_sec2 {padding: 103px 0 95px; background-color: #FAFAFA;}
 .sub3 .ani_sec2 .sec_txtL {position: relative; z-index: 2;}
 .sub3 .ani_sec2 .sec_txtL.deco:before {top: 18px; width: 204px; height: 13px;}
-.sub3 .ani_sec2 .sec_txtL .arrow {position: absolute; left: 50%; top: 20px; left: 50%; margin-left: 100px; width: 87px; height: 116px; background: url('../images/sub/sub3_sec2_arrow_m.svg') no-repeat 0 0 / 100% 100%;}
+.sub3 .ani_sec2 .sec_txtL .arrow {position: absolute; left: 50%; top: 20px; left: 50%; margin-left: 100px; width: 87px; height: 116px; background: url('https://kimhye-won.github.io/kmong2/images/sub/sub3_sec2_arrow_m.svg') no-repeat 0 0 / 100% 100%;}
 .sub3 .ani_sec2 .step {position: relative; z-index: 1; margin-top: 30px;}
 .sub3 .ani_sec2 .step li {position: relative; padding: 25px; background-color: #fff; border-radius: 18px;}
 .sub3 .ani_sec2 .step li:not(:first-child) {margin-top: 8px;}
@@ -2037,7 +2037,7 @@ sub common
 @media only screen and (min-width: 1400px) {
 	.sub3 .ani_sec2 {padding: 190px 0 111px;}
 	.sub3 .ani_sec2 .sec_txtL.deco:before {width: 384px; height: 25px;}
-	.sub3 .ani_sec2 .sec_txtL .arrow {top: 30px; margin-left: 190px; width: 173px; height: 232px; background: url('../images/sub/sub3_sec2_arrow_w.svg') no-repeat 0 0 / 100% 100%;}
+	.sub3 .ani_sec2 .sec_txtL .arrow {top: 30px; margin-left: 190px; width: 173px; height: 232px; background: url('https://kimhye-won.github.io/kmong2/images/sub/sub3_sec2_arrow_w.svg') no-repeat 0 0 / 100% 100%;}
 	.sub3 .ani_sec2 .inner {display: flex; align-items: center; justify-content: center; flex-flow: row-reverse;}
 	.sub3 .ani_sec2 .sec_video {height: 800px; width: 375px; margin: 0 111px 0 0;}
 	.sub3 .ani_sec2 .step {margin-top: 99px; width: 486px;}
@@ -2050,7 +2050,7 @@ sub common
 /* sub3 - ani_sec3 */
 .sub3 .ani_sec3 {padding: 95px 0 85px; background-color: #FAFAFA;}
 .sub3 .ani_sec3 .sec_txtL {position: relative; z-index: 2; max-width: 768px; margin: 0 auto;}
-.sub3 .ani_sec3 .sec_txtL .arrow {position: absolute; left: 50%; bottom: -90px; left: 50%; margin-left: 25%; width: 86px; height: 95px; background: url('../images/sub/sub3_sec3_arrow_m.svg') no-repeat 0 0 / 100% 100%;}
+.sub3 .ani_sec3 .sec_txtL .arrow {position: absolute; left: 50%; bottom: -90px; left: 50%; margin-left: 25%; width: 86px; height: 95px; background: url('https://kimhye-won.github.io/kmong2/images/sub/sub3_sec3_arrow_m.svg') no-repeat 0 0 / 100% 100%;}
 .sub3 .ani_sec3 .step {max-width: 768px; margin: 0 auto; position: relative; z-index: 1; margin-top: 55px; display: flex; width: 100%; gap: 8px;}
 .sub3 .ani_sec3 .step .step_box {flex: 50%;}
 .sub3 .ani_sec3 .step .step_box:nth-child(1) {text-align: right;}
@@ -2065,7 +2065,7 @@ sub common
 @media only screen and (min-width: 1400px) {
 	.sub3 .ani_sec3 {padding: 190px 0 202px;}
 	.sub3 .ani_sec3 .sec_txtL {display: inline-block;}
-	.sub3 .ani_sec3 .sec_txtL .arrow {top: -20px; left: 0; margin-left: -193px;  width: 173px; height: 180px; background-image: url('../images/sub/sub3_sec3_arrow_w.svg');}
+	.sub3 .ani_sec3 .sec_txtL .arrow {top: -20px; left: 0; margin-left: -193px;  width: 173px; height: 180px; background-image: url('https://kimhye-won.github.io/kmong2/images/sub/sub3_sec3_arrow_w.svg');}
 	.sub3 .ani_sec3 .sec_txtL,
 	.sub3 .ani_sec3 .step {max-width: 100%; margin-top: 131px; gap: 24px;}
 	.sub3 .ani_sec3 .step .sec_img_resize {margin-top: 24px; height: auto; padding-top: 0 !important; border-radius: 30px;}
@@ -2129,7 +2129,7 @@ sub common
 .sub4 .ani_sec2 .prd_list li button .chk:before {content: ''; display: block; width: 13px; height: 13px; border-radius: 13px; background-color: #fff}
 .sub4 .ani_sec2 .prd_list li button .prd_inner {position: relative; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 261px; border: 4px solid #fff; border-radius: 15px; background-color: #fff;}
 .sub4 .ani_sec2 .prd_list li button .tag {display: none; content:'BEST 할인상품'; position: absolute; top: -4px; left: 0; right: 0; margin: 0 auto; line-height: 29px; width: 95px; height: 29px; font-size: 11px; font-weight: 700; background-color: #090A0A; color: #fff; border-bottom-left-radius: 12px; border-bottom-right-radius: 12px;}
-.sub4 .ani_sec2 .prd_list li button .prd_ticket {display: flex; align-items: center; justify-content: center; max-width: 227px; width: 100%; height: 113px; margin: 0 auto; background: url('../images/sub/sub4_sec2_prd.svg') no-repeat center center / 100% 100%; color: #000;}
+.sub4 .ani_sec2 .prd_list li button .prd_ticket {display: flex; align-items: center; justify-content: center; max-width: 227px; width: 100%; height: 113px; margin: 0 auto; background: url('https://kimhye-won.github.io/kmong2/images/sub/sub4_sec2_prd.svg') no-repeat center center / 100% 100%; color: #000;}
 .sub4 .ani_sec2 .prd_list li button .prd_ticket .name {font-size: 15px; line-height: 100%; font-weight: 900; letter-spacing: 6px;}
 .sub4 .ani_sec2 .prd_list li button .prd_ticket .date {font-size: 40px; font-weight: 800; line-height: 100%; letter-spacing: -3px;}
 .sub4 .ani_sec2 .prd_list li button .prd_name {margin-top: 10px; font-size: 16px; font-weight: 700; color: #090A0A;}
@@ -2138,7 +2138,7 @@ sub common
 .sub4 .ani_sec2 .prd_list li.active button .prd_inner {position: relative; border-color:#090A0A;}
 .sub4 .ani_sec2 .prd_list li.active button .tag {display: block;}
 .sub4 .ani_sec2 .prd_list li.active button .chk:before {background-color: #FFF059;}
-.sub4 .ani_sec2 .prd_list li.active button .prd_ticket {background-image: url('../images/sub/sub4_sec2_prd_active.svg');}
+.sub4 .ani_sec2 .prd_list li.active button .prd_ticket {background-image: url('https://kimhye-won.github.io/kmong2/images/sub/sub4_sec2_prd_active.svg');}
 .sub4 .ani_sec2 .prd_txt {margin-top: 15px; font-size: 14px; font-weight: 500; color: #414141;}
 .sub4 .ani_sec2 .btn {margin-top: 40px}
 @media only screen and (min-width: 1400px) {
@@ -2164,7 +2164,7 @@ sub common
 .sub4 .ani_sec3 {padding: 100px 0 160px;}
 .sub4 .ani_sec3 .inner_top {text-align: center;}
 .sub4 .ani_sec3 .sec_txtL {position: relative; display: inline-block;}
-.sub4 .ani_sec3 .sec_txtL:after {content:''; position: absolute; top: 5px; right: -80px; width: 87px; height: 117px; background: url('../images/sub/sub4_sec3_arrow_m.svg') no-repeat 0 0 / 100% 100%;}
+.sub4 .ani_sec3 .sec_txtL:after {content:''; position: absolute; top: 5px; right: -80px; width: 87px; height: 117px; background: url('https://kimhye-won.github.io/kmong2/images/sub/sub4_sec3_arrow_m.svg') no-repeat 0 0 / 100% 100%;}
 .sub4 .ani_sec3 .list {margin-top: 30px;}
 .sub4 .ani_sec3 .list li {padding: 43px 10px; text-align: center; background-color: #FAFAFA; font-weight: 500; border-radius: 20px; color: #090A0A;}
 .sub4 .ani_sec3 .list li:not(:first-child) {margin-top: 10px;}
@@ -2174,7 +2174,7 @@ sub common
 	.sub4 .ani_sec3 {padding: 260px 0 403px;}
 	.sub4 .ani_sec3 .inner {position: relative;}
 	.sub4 .ani_sec3 .sec_txtL {position: absolute; top: 60px; left: 48px; text-align: left;}
-	.sub4 .ani_sec3 .sec_txtL:after {top: -10px; right: -250px; width: 221px; height: 220px; background-image: url('../images/sub/sub4_sec3_arrow_w.svg');}
+	.sub4 .ani_sec3 .sec_txtL:after {top: -10px; right: -250px; width: 221px; height: 220px; background-image: url('https://kimhye-won.github.io/kmong2/images/sub/sub4_sec3_arrow_w.svg');}
 	.sub4 .ani_sec3 .list {display: flex; flex-wrap: wrap; margin-left: -24px;}
 	.sub4 .ani_sec3 .list li {width: 588px; padding: 62px 10px 76px; margin-left: 24px; margin-top: 24px !important;}
 	.sub4 .ani_sec3 .list li .ico {display: block; width: 76px; height: 76px; margin: 0 auto;}
