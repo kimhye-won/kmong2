@@ -484,5 +484,6 @@ $('.profile .cancel_btn').click(function(){
         $('.ticket_pop').removeClass('active');
         $('.profile').removeClass('filter_bg');
         $('.cancel_date').addClass('on');
+        $('.cancel_btn').addClass('non');
     })
 })
